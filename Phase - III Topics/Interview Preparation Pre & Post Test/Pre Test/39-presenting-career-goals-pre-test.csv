@@ -1,0 +1,73 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Translate: Interview Preparation - Presenting Career Goals,,,
+header,title,,Translate: Interview Preparation - Presenting Career Goals,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of presenting career goals in an interview,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My career goal is to become a software engineer, and I plan to achieve it by learning new skills.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Presenting Career Goals
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My career goal is to lead a team, and I plan to achieve it by gaining leadership experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Presenting Career Goals
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My career goal is to grow in marketing, and I plan to achieve it by completing a digital marketing course.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Presenting Career Goals
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My career goal is to work in finance, and I plan to achieve it by getting a professional certification.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Presenting Career Goals
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My career goal is to become a project manager, and I plan to achieve it by building project handling skills.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Presenting Career Goals
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My career goal is to start my own business, and I plan to achieve it by gaining experience in the industry.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Presenting Career Goals
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My career goal is to work in human resources, and I plan to achieve it by learning people management skills.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Presenting Career Goals
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My career goal is to become a data analyst, and I plan to achieve it by practicing data tools daily.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Presenting Career Goals
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My career goal is to improve my communication skills, and I plan to achieve it by joining public speaking groups.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Presenting Career Goals
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: My career goal is to work in a global company, and I plan to achieve it by improving my English proficiency.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Presenting Career Goals",TRUE,,

@@ -1,0 +1,73 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Translate: Group Discussion - Lateral Hiring vs. Fresher Hiring!,,,
+header,title,,Translate: Group Discussion - Lateral Hiring vs. Fresher Hiring!,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of lateral hiring and fresher hiring as a group discussion topic!,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Fresher hiring offers new energy and fresh perspectives to the team.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Lateral Hiring vs. Fresher Hiring
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While fresher hiring offers adaptability, it also has a longer training period.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Lateral Hiring vs. Fresher Hiring
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Fresher hiring offers candidates who are easy to train and mould.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Lateral Hiring vs. Fresher Hiring
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While fresher hiring offers enthusiasm, it also has a risk of lack of experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Lateral Hiring vs. Fresher Hiring
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Fresher hiring offers long-term loyalty and commitment to the company.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Lateral Hiring vs. Fresher Hiring
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While fresher hiring offers cost savings, it also has a challenge of slower productivity initially.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Lateral Hiring vs. Fresher Hiring
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Fresher hiring offers cost-effective recruitment for entry-level roles.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Lateral Hiring vs. Fresher Hiring
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While fresher hiring offers loyalty, it also has a risk of the candidate leaving after gaining experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Lateral Hiring vs. Fresher Hiring
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Fresher hiring offers innovative thinking and enthusiasm to the workplace.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Lateral Hiring vs. Fresher Hiring
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: While fresher hiring offers fresh ideas, it also has a drawback of needing more supervision.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Lateral Hiring vs. Fresher Hiring",TRUE,,

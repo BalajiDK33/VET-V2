@@ -1,0 +1,73 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Translate: Interview Preparation - Asking Interviewer Questions!,,,
+header,title,,Translate: Interview Preparation - Asking Interviewer Questions!,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of asking questions to interviewers!,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Could you tell me more about what success looks like in this role?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Asking Interviewer Questions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Could you tell me more about the company's plans for the next year?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Asking Interviewer Questions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Could you tell me more about the tools and software used by the team?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Asking Interviewer Questions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Could you tell me more about the onboarding process for new joiners?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Asking Interviewer Questions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Could you tell me more about how the team handles deadlines and pressure?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Asking Interviewer Questions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Could you tell me more about the mentorship or support available for employees?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Asking Interviewer Questions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Could you tell me more about the work-life balance in this organization?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Asking Interviewer Questions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Could you tell me more about how the company supports employee development?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Asking Interviewer Questions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Could you tell me more about the reporting structure in this role?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Asking Interviewer Questions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: Could you tell me more about what makes someone successful in this company?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Asking Interviewer Questions",TRUE,,

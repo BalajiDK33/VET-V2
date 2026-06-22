@@ -1,0 +1,73 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Translate: Group Discussion - Overqualification — Boon or Bane,,,
+header,title,,Translate: Group Discussion - Overqualification — Boon or Bane,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of overqualification as a group discussion topic,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Overqualification offers a higher level of expertise to the organization.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Overqualification — Boon or Bane
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While overqualification offers advanced skills, it also has a risk of higher salary demands.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Overqualification — Boon or Bane
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Overqualification offers better problem-solving ability to the team.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Overqualification — Boon or Bane
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While overqualification offers expertise, it also has the challenge of employee dissatisfaction.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Overqualification — Boon or Bane
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Overqualification offers faster completion of complex tasks.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Overqualification — Boon or Bane
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While overqualification offers better performance, it also has a risk of the employee leaving soon.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Overqualification — Boon or Bane
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Overqualification offers strong analytical skills to the workplace.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Overqualification — Boon or Bane
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While overqualification offers technical strength, it also has a risk of the candidate feeling undervalued.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Overqualification — Boon or Bane
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Overqualification offers a more knowledgeable and skilled workforce.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Overqualification — Boon or Bane
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: While overqualification offers industry experience, it also has the challenge of fitting into a junior role.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Overqualification — Boon or Bane",TRUE,,

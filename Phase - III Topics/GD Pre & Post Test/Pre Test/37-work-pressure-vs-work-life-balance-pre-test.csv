@@ -1,0 +1,73 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Translate: Group Discussion - Work Pressure vs. Work-Life Balance,,,
+header,title,,Translate: Group Discussion - Work Pressure vs. Work-Life Balance,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of work pressure and work-life balance as a group discussion topic,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Work pressure offers higher motivation and better productivity.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Work Pressure vs. Work-Life Balance
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While work pressure offers faster results, it also has a risk of stress and burnout.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Work Pressure vs. Work-Life Balance
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Work pressure offers a sense of urgency that drives faster results.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Work Pressure vs. Work-Life Balance
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While work pressure offers motivation, it also has a challenge of affecting mental health.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Work Pressure vs. Work-Life Balance
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Work pressure offers the opportunity to develop resilience and discipline.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Work Pressure vs. Work-Life Balance
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While work pressure offers productivity, it also has a risk of reducing job satisfaction.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Work Pressure vs. Work-Life Balance
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Work pressure offers faster career growth through challenging tasks.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Work Pressure vs. Work-Life Balance
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While work pressure offers better performance, it also has a drawback of poor work quality over time.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Work Pressure vs. Work-Life Balance
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Work pressure offers a competitive environment that pushes employees to perform better.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Work Pressure vs. Work-Life Balance
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: While work pressure offers career growth, it also has a risk of increasing employee turnover.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Work Pressure vs. Work-Life Balance",TRUE,,

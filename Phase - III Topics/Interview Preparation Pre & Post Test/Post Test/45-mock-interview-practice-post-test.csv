@@ -1,0 +1,73 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Translate: Interview Preparation - Mock Interview Practice!,,,
+header,title,,Translate: Interview Preparation - Mock Interview Practice!,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of mock interview practice sentences!,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My greatest strength is creativity because it helps me find new and better ways to solve problems.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Mock Interview Practice
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My greatest strength is empathy because it helps me understand and support my colleagues better.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Mock Interview Practice
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My greatest strength is responsibility because it helps me be trusted with important tasks.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Mock Interview Practice
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My greatest strength is analytical thinking because it helps me break down complex problems easily.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Mock Interview Practice
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My greatest strength is confidence because it helps me present my ideas clearly to any audience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Mock Interview Practice
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My greatest strength is initiative because it helps me take action without waiting to be told.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Mock Interview Practice
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My greatest strength is consistency because it helps me deliver reliable and quality work always.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Mock Interview Practice
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My greatest strength is resilience because it helps me bounce back from setbacks and keep going.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Mock Interview Practice
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: My greatest strength is organization because it helps me manage multiple tasks without confusion.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Mock Interview Practice
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: My greatest strength is positivity because it helps me stay motivated and inspire those around me.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Mock Interview Practice",TRUE,,

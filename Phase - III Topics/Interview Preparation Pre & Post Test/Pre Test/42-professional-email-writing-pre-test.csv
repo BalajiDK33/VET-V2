@@ -1,0 +1,73 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Translate: Interview Preparation - Professional Email Writing,,,
+header,title,,Translate: Interview Preparation - Professional Email Writing,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of professional email writing for interviews,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I am writing to apply for the job position and I look forward to your positive response.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Professional Email Writing
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I am writing to confirm my interview appointment and I look forward to meeting you.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Professional Email Writing
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I am writing to introduce myself and I look forward to connecting with your team.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Professional Email Writing
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I am writing to request more details about the role and I look forward to hearing from you.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Professional Email Writing
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I am writing to follow up on my application and I look forward to your update.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Professional Email Writing
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I am writing to express my interest in the company and I look forward to your guidance.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Professional Email Writing
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I am writing to share my resume and I look forward to your consideration.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Professional Email Writing
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I am writing to reschedule my interview and I look forward to your confirmation.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Professional Email Writing
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I am writing to accept the job offer and I look forward to joining your team.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Professional Email Writing
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: I am writing to ask about the job requirements and I look forward to your reply.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Professional Email Writing",TRUE,,

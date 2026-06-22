@@ -1,0 +1,73 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Translate: Group Discussion - Resume — Does It Truly Reflect a Candidate,,,
+header,title,,Translate: Group Discussion - Resume — Does It Truly Reflect a Candidate,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of resume as a group discussion topic,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: A resume offers a quick overview of the candidate's profile.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Resume — Does It Truly Reflect a Candidate
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While a resume offers basic screening, it also has a risk of missing true talent.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Resume — Does It Truly Reflect a Candidate
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: A resume offers clarity and structure to the recruitment process.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Resume — Does It Truly Reflect a Candidate
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While a resume offers organised information, it also has the challenge of being inaccurate.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Resume — Does It Truly Reflect a Candidate
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: A resume offers a summary of the candidate's education and experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Resume — Does It Truly Reflect a Candidate
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While a resume offers a professional overview, it also has a risk of not showing real personality.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Resume — Does It Truly Reflect a Candidate
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: A resume offers recruiters a first impression of the applicant.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Resume — Does It Truly Reflect a Candidate
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While a resume offers easy comparison, it also has a drawback of being easily exaggerated.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Resume — Does It Truly Reflect a Candidate
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: A resume offers an easy way to compare multiple candidates.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Resume — Does It Truly Reflect a Candidate
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: While a resume offers structured details, it also has a risk of hiding weaknesses.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Resume — Does It Truly Reflect a Candidate",TRUE,,

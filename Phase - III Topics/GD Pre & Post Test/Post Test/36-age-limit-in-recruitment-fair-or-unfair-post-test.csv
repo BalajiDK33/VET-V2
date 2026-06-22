@@ -1,0 +1,73 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Translate: Group Discussion - Age Limit in Recruitment — Fair or Unfair!,,,
+header,title,,Translate: Group Discussion - Age Limit in Recruitment — Fair or Unfair!,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of age limit in recruitment as a group discussion topic!,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: No age limit in recruitment offers diversity and experience to the organization.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Age Limit in Recruitment — Fair or Unfair
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While no age limit offers experience, it also has a higher cost of employment.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Age Limit in Recruitment — Fair or Unfair
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: No age limit in recruitment offers a wider pool of skilled candidates.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Age Limit in Recruitment — Fair or Unfair
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While no age limit offers diversity, it also has a challenge of managing different generations.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Age Limit in Recruitment — Fair or Unfair
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: No age limit in recruitment offers the experience needed for complex roles.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Age Limit in Recruitment — Fair or Unfair
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While no age limit offers expertise, it also has a risk of higher salary demands.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Age Limit in Recruitment — Fair or Unfair
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: No age limit in recruitment offers equal opportunities for all professionals.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Age Limit in Recruitment — Fair or Unfair
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: While no age limit offers a wider talent pool, it also has a drawback of slower technology adoption.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Age Limit in Recruitment — Fair or Unfair
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: No age limit in recruitment offers a mix of young and experienced talent.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Age Limit in Recruitment — Fair or Unfair
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: While no age limit offers inclusion, it also has a challenge of varied expectations and work styles.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Group Discussion - Age Limit in Recruitment — Fair or Unfair",TRUE,,

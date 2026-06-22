@@ -1,0 +1,73 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Translate: Interview Preparation - Discussing Work Experience,,,
+header,title,,Translate: Interview Preparation - Discussing Work Experience,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of discussing work experience in an interview,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: In my previous role, I was responsible for customer support, which helped me develop communication skills.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Discussing Work Experience
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: In my previous role, I was responsible for data entry, which helped me develop attention to detail.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Discussing Work Experience
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: In my previous role, I was responsible for managing social media, which helped me develop marketing skills.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Discussing Work Experience
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: In my previous role, I was responsible for team coordination, which helped me develop leadership skills.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Discussing Work Experience
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404db9c
+question: In my previous role, I was responsible for preparing reports, which helped me develop analytical skills.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Discussing Work Experience
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: In my previous role, I was responsible for handling complaints, which helped me develop problem-solving skills.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Discussing Work Experience
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: In my previous role, I was responsible for training new staff, which helped me develop coaching abilities.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Discussing Work Experience
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: In my previous role, I was responsible for scheduling meetings, which helped me develop time management skills.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Discussing Work Experience
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: In my previous role, I was responsible for budget planning, which helped me develop financial awareness.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Discussing Work Experience
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: In my previous role, I was responsible for client communication, which helped me develop professional English skills.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Interview Preparation - Discussing Work Experience",TRUE,,
