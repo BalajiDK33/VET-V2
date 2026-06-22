@@ -10,11 +10,11 @@ Sentence Structure 2: "While [topic] offers [advantage], it also has a [drawback
 
 Roleplay Questions:
 
-1. Priya says a resume is the best way to judge a candidate. Share your view using Structure 1.
-2. Rahul says resumes do not show the real personality of a candidate. Respond using Structure 2.
-3. Ram says a well-written resume always gets shortlisted. Share your view using Structure 1.
-4. Sneha says resumes can be misleading and should not be trusted fully. Respond using Structure 2.
-5. Arjun says practical tests are better than resumes for judging candidates. Share your view using Structure 2.
+1. What does a resume offer to a recruiter?
+2. While a resume offers a first impression, what challenge does it also bring?
+3. What does a resume offer to the hiring process?
+4. While a resume offers documented skills, what risk does it also bring?
+5. What does a resume offer to a candidate's job search?
 
 Examples:
 

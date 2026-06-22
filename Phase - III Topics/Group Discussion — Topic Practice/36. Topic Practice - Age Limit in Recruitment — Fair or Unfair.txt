@@ -10,11 +10,11 @@ Sentence Structure 2: "While [topic] offers [advantage], it also has a [drawback
 
 Roleplay Questions:
 
-1. Priya says having an age limit in recruitment is fair and necessary. Share your view using Structure 1.
-2. Rahul says age limit in recruitment is unfair to experienced professionals. Respond using Structure 2.
-3. Ram says younger candidates are more energetic and adaptable. Share your view using Structure 1.
-4. Sneha says removing age limits will bring more diversity in the workplace. Respond using Structure 1.
-5. Arjun says age limit affects the opportunities for experienced candidates. Share your view using Structure 2.
+1. What does an age limit in recruitment offer to a company?
+2. While an age limit offers a younger workforce, what challenge does it also bring?
+3. What does no age limit in recruitment offer to an organization?
+4. While no age limit offers diversity, what risk does it also bring?
+5. What does an age limit in recruitment offer to team energy?
 
 Examples:
 

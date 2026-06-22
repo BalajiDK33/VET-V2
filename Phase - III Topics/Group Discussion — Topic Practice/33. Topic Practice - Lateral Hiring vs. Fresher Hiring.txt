@@ -10,11 +10,11 @@ Sentence Structure 2: "While [topic] offers [advantage], it also has a [drawback
 
 Roleplay Questions:
 
-1. Priya says lateral hiring is better because candidates come with experience. Share your view using Structure 1.
-2. Rahul says fresher hiring is better because freshers are easy to train. Respond using Structure 1.
-3. Ram says lateral hires always demand higher salaries. Respond using Structure 2.
-4. Sneha says freshers take too long to become productive. Respond using Structure 2.
-5. Arjun says companies should prefer lateral hiring for senior positions. Share your view using Structure 1.
+1. What does lateral hiring offer to a company?
+2. While lateral hiring offers experience, what challenge does it also bring?
+3. What does fresher hiring offer to an organization?
+4. While fresher hiring offers fresh ideas, what risk does it also bring?
+5. What does lateral hiring offer to team performance?
 
 Examples:
 

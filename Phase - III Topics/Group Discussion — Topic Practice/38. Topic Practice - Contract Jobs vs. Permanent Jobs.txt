@@ -10,11 +10,11 @@ Sentence Structure 2: "While [topic] offers [advantage], it also has a [drawback
 
 Roleplay Questions:
 
-1. Priya says contract jobs are better because they offer flexibility. Share your view using Structure 1.
-2. Rahul says permanent jobs are better because they offer stability. Respond using Structure 1.
-3. Ram says contract jobs do not offer job security. Respond using Structure 2.
-4. Sneha says permanent jobs limit your exposure to different industries. Share your view using Structure 2.
-5. Arjun says contract jobs are becoming more popular in the modern workplace. Share your view using Structure 1.
+1. What does a contract job offer to an employee?
+2. While a contract job offers flexibility, what risk does it also bring?
+3. What does a permanent job offer to an employee?
+4. While a permanent job offers stability, what challenge does it also bring?
+5. What does a contract job offer to a company?
 
 Examples:
 
