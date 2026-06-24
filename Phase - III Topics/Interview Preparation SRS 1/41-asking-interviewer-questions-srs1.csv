@@ -1,0 +1,67 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Asking Interviewer Questions,,,
+header,title,,Interview Preparation - Asking Interviewer Questions,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to ask questions to interviewers confidently,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to ask questions to interviewers in a professional way.
+image_url:
+button_text: Continue!
+
+message: See this hint image to refresh your memory. ☝️
+image_url:
+button_text: Next!
+
+message: Great! Now answer some questions using the hint image.
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,,"Select the correct way to ask the interviewer about the work culture
+
+1.Could you tell me more about the work culture and values of this organization?
+2.Is this company good or bad? I need to know before I join.
+
+Correct answer: 1",,,
+1,mcqs,,"Select the correct way to ask about the onboarding process
+
+1.How long will it take before I can start working independently?
+2.Could you tell me more about the onboarding process for new employees?
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,,Could you tell me more about the key challenges someone in this role typically faces?,,,
+2,jumbles_listening_comprehension,,Could you tell me more about the short-term goals for this position?,,,
+2,jumbles_listening_comprehension,,Could you tell me more about the collaboration between different teams in this organization?,,,
+2,jumbles_listening_comprehension,,Could you tell me more about the feedback and performance review process here?,,,
+2,jumbles_listening_comprehension,,Could you tell me more about the opportunities to take on additional responsibilities over time?,,,
+2,section_type,,practice,,,
+3,roleplay,,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. The interviewer gives you a chance to ask questions. Ask about the reporting structure of the role.'
+
+'2. The interviewer asks if you have any questions. Ask about the tools and technologies used in the team.'
+
+'3. The interviewer invites you to ask something. Ask about the biggest challenge in this role.'
+
+'4. The interviewer gives you time for questions. Ask about the onboarding experience for new joiners.'
+
+'5. The interviewer says you can ask anything. Ask about the opportunities for career progression.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Asking Interviewer Questions""
+sentence_structure: ""Could you tell me more about [topic]?""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

@@ -1,0 +1,71 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Presenting Ideas Clearly and Confidently,,,
+header,title,,Interview Preparation - Presenting Ideas Clearly and Confidently,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to present ideas clearly and confidently in an interview,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to present ideas clearly and confidently in an interview.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""To begin with [point] and in conclusion [summary].""
+
+This structure helps you organize your thoughts clearly before presenting them in an interview.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,"Select the correct way to present an idea about employee motivation
+
+1.To begin with recognition motivates employees and in conclusion it leads to higher retention rates.
+2.Motivation is important. Employees should be motivated all the time. That is my point.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,"Select the correct way to present an idea about flexible working
+
+1.Flexible working is very popular in most companies across the world these days.
+2.To begin with flexible working improves work-life balance and in conclusion it increases employee satisfaction.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,To&&begin&&with clear&&goals&&improve&&focus and&&in&&conclusion they&&help&&teams&&achieve&&targets&&more&&efficiently.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,To&&begin&&with open&&communication&&builds&&trust and&&in&&conclusion it&&creates a&&more&&collaborative&&work&&environment.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,To&&begin&&with regular&&feedback&&supports&&growth and&&in&&conclusion it&&helps&&employees&&improve&&continuously.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,To&&begin&&with innovation&&drives&&competitiveness and&&in&&conclusion it&&positions a&&company&&as a&&market&&leader.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,To&&begin&&with adaptability&&builds&&resilience and&&in&&conclusion it&&helps&&professionals&&thrive&&in&&changing&&environments.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. The interviewer asks your opinion on remote work. Present your idea using the structure.'
+
+'2. The interviewer asks how you would improve team productivity. Share your point using the structure.'
+
+'3. The interviewer asks for your view on digital marketing for small businesses. Present using the structure.'
+
+'4. The interviewer asks how you handle setbacks at work. Share your perspective using the structure.'
+
+'5. The interviewer asks your opinion on continuous learning in the workplace. Present using the structure.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Presenting Ideas Clearly and Confidently""
+sentence_structure: ""To begin with [point] and in conclusion [summary].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

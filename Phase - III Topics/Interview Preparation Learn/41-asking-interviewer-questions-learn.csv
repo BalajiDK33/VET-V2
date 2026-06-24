@@ -1,0 +1,93 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Asking Interviewer Questions,,,
+header,title,,Interview Preparation - Asking Interviewer Questions,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Learn how to ask questions to interviewers confidently,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to ask questions to interviewers in a professional way.
+
+Asking good questions shows interest and confidence in the interview.
+image_url:
+button_text: Cool!
+
+message:
+When you want to ask the interviewer about something in a polite and professional way, use this structure:
+
+""Could you tell me more about [topic]?""
+
+For example: ""Could you tell me more about the team I will be working with?""
+image_url:
+button_text: Got it!
+
+message:
+Here's another example.
+
+If you want to know about the role's responsibilities, you can say:
+
+""Could you tell me more about the daily responsibilities of this role?""
+image_url:
+button_text: Next!
+
+message:
+This structure helps you ask questions in a polite and professional way.
+
+It shows the interviewer that you are genuinely interested in the role.
+image_url:
+button_text: Makes sense!
+
+message:
+Let's practice asking questions to interviewers!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,,"Select the correct way to ask the interviewer about the role
+
+1.Could you tell me more about the daily responsibilities of this role?
+2.What exactly will I have to do here because I need to know everything.
+
+Correct answer: 1",,,
+1,mcqs,,"Select the correct way to ask the interviewer about growth opportunities
+
+1.Is there any chance I can get promoted quickly because I want to grow fast?
+2.Could you tell me more about the growth opportunities in this company?
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,,Could you tell me more about the benefits and perks offered by the company?,,,
+2,jumbles_listening_comprehension,,Could you tell me more about the team size and structure in this department?,,,
+2,jumbles_listening_comprehension,,Could you tell me more about the projects I will be working on in this role?,,,
+2,jumbles_listening_comprehension,,Could you tell me more about the opportunities for learning and skill development?,,,
+2,jumbles_listening_comprehension,,Could you tell me more about how performance is measured in this role?,,,
+2,section_type,,practice,,,
+3,roleplay,,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. The interviewer asks if you have any questions. Ask about the team you will work with.'
+
+'2. The interviewer asks if you want to know anything about the role. Ask about daily responsibilities.'
+
+'3. The interviewer says you can ask any question you have. Ask about growth opportunities.'
+
+'4. The interviewer invites your questions at the end of the interview. Ask about the work culture.'
+
+'5. The interviewer gives you a chance to ask about the company. Ask about training and support.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Asking Interviewer Questions""
+sentence_structure: ""Could you tell me more about [topic]?""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

@@ -1,0 +1,95 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Group Discussion - Leadership — Born or Made,,,
+header,title,,Group Discussion - Leadership — Born or Made,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Learn how to discuss leadership in a group discussion,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to discuss Leadership — Born or Made in a group discussion.
+
+Using the right structure helps you speak clearly and confidently.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Cool!
+
+message:
+When you want to talk about what something offers or contributes, use this structure:
+
+""[Topic] offers [advantage].""
+
+For example: ""Born leadership offers natural confidence and strong decision-making ability.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Got it!
+
+message:
+Here's another example.
+
+If someone asks about the benefits of learned leadership, you can say:
+
+""Learned leadership offers adaptability and growth through experience.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Next!
+
+message:
+When you want to mention both the advantage and the drawback, use this structure:
+
+""While [topic] offers [advantage], it also has a [drawback].""
+
+For example: ""While born leadership offers natural talent, it also has a risk of being inflexible.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Makes sense!
+
+message:
+Let's practice discussing leadership!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Select the correct way to talk about what born leadership offers
+
+1.Born leadership offers natural confidence and strong decision-making ability.
+2.Born leaders never need any training or development.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Select the correct way to talk about the drawback of learned leadership
+
+1.Learned leadership is always weaker than born leadership.
+2.While learned leadership offers skill development, it also has the need for constant training.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Born&&leadership offers&&the&&ability to&&inspire&&and&&motivate others&&naturally.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While&&born&&leadership offers&&quick&&decision-making, it&&also&&has the&&risk of&&being&&overconfident.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Learned&&leadership offers&&better&&self-awareness and&&emotional&&intelligence to&&a&&leader.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While&&learned&&leadership offers&&flexibility, it&&also&&has the&&challenge of&&taking&&more&&time to&&develop.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Strong&&leadership offers&&a&&clear&&sense of&&direction&&and&&purpose to&&the&&team.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. What does born leadership offer to a team? Use Structure 1.'
+
+'2. While born leadership offers natural talent, what challenge does it also bring? Respond using Structure 2.'
+
+'3. What does learned leadership offer to an organization? Use Structure 1.'
+
+'4. While learned leadership offers adaptability, what risk does it also bring? Give your answer using Structure 2.'
+
+'5. What does strong leadership offer to a company's growth? Use Structure 1.'""
+sub_rules: """"
+can_do_statement: ""Group Discussion - Leadership — Born or Made""
+sentence_structure: ""[Topic] offers [advantage]. / While [topic] offers [advantage], it also has a [drawback].""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

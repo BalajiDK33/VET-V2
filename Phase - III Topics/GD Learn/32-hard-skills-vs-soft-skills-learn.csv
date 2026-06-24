@@ -1,0 +1,95 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Group Discussion - Hard Skills vs. Soft Skills,,,
+header,title,,Group Discussion - Hard Skills vs. Soft Skills,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Learn how to discuss hard skills and soft skills in a group discussion,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to discuss Hard Skills vs. Soft Skills in a group discussion.
+
+Using the right structure helps you speak clearly and confidently.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg 
+button_text: Cool!
+
+message:
+When you want to talk about what something offers or contributes, use this structure:
+
+""[Topic] offers [advantage].""
+
+For example: ""Hard skills offer technical ability for better job performance.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg 
+button_text: Got it!
+
+message:
+Here's another example.
+
+If someone asks about the benefits of soft skills, you can say:
+
+""Soft skills offer better teamwork and communication in the workplace.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg 
+button_text: Next!
+
+message:
+When you want to mention both the advantage and the drawback, use this structure:
+
+""While [topic] offers [advantage], it also has a [drawback].""
+
+For example: ""While hard skills offer technical expertise, it also has a limitation of poor interpersonal skills.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg 
+button_text: Makes sense!
+
+message:
+Let's practice discussing hard skills vs. soft skills!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Select the correct way to talk about what hard skills offer
+
+1.Hard skills offer technical ability for better job performance.
+2.Hard skills are not important in today's workplace.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Select the correct way to talk about the drawback of soft skills
+
+1.Soft skills are useless because they cannot be measured.
+2.While soft skills offer better communication, it also has a lack of technical knowledge.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Hard skills offer measurable expertise that can be tested and verified.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While hard skills offer technical accuracy, it also has the drawback of limited soft skill development.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Soft skills offer the ability to resolve conflicts and manage team dynamics.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While soft skills offer strong interpersonal skills, it also has the challenge of lacking technical depth.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Having both hard and soft skills offers a complete professional package to any employer.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. What does hard skills offer to a job candidate? Use Structure 1.'
+
+'2. While hard skills offer technical ability, what challenge does it also bring? Respond using Structure 2.'
+
+'3. What does soft skills offer to a workplace? Use Structure 1.'
+
+'4. While soft skills offer better teamwork, what risk does it also bring? Give your answer using Structure 2.'
+
+'5. What does having both hard and soft skills offer to a professional? Use Structure 1.'""
+sub_rules: """"
+can_do_statement: ""Group Discussion - Hard Skills vs. Soft Skills""
+sentence_structure: ""[Topic] offers [advantage]. / While [topic] offers [advantage], it also has a [drawback].""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

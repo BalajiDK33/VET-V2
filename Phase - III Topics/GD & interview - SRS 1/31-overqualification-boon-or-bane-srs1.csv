@@ -1,0 +1,67 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Group Discussion - Overqualification — Boon or Bane,,,
+header,title,,Group Discussion - Overqualification — Boon or Bane,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to discuss overqualification in a group discussion,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to discuss Overqualification — Boon or Bane in a group discussion.
+image_url:
+button_text: Continue!
+
+message: See this hint image to refresh your memory. ☝️
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Next!
+
+message: Great! Now answer some questions using the hint image.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Look at the hint image and select the correct way to talk about what overqualification offers
+
+1.Overqualification offers a wider perspective when solving complex business challenges.
+2.Overqualification creates only problems for the company.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Look at the hint image and select the correct way to talk about the drawback of overqualification
+
+1.Overqualification is always beneficial and has no drawbacks at all.
+2.While overqualification offers rich expertise, it also has the risk of employees seeking better opportunities elsewhere.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Overqualification offers a high level of accuracy and efficiency in completing tasks.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While overqualification offers detailed expertise, it also has the risk of feeling underutilized in the role.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Overqualification offers the ability to handle high-pressure situations with confidence.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While overqualification offers strong leadership potential, it also has the challenge of adapting to a limited scope.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Overqualification offers a unique advantage of quickly identifying inefficiencies in the system.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. What does overqualification offer to the team in terms of productivity? Use Structure 1.'
+
+'2. While overqualification offers strong skills, what challenge does it bring to the company? Use Structure 2.'
+
+'3. How does overqualification offer value in a managerial role? Use Structure 1.'
+
+'4. While overqualification offers fast results, what risk does it also create? Use Structure 2.'
+
+'5. What unique advantage does overqualification offer to a growing organization? Use Structure 1.'""
+sub_rules: """"
+can_do_statement: ""Group Discussion - Overqualification — Boon or Bane""
+sentence_structure: ""[Topic] offers [advantage]. / While [topic] offers [advantage], it also has a [drawback].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

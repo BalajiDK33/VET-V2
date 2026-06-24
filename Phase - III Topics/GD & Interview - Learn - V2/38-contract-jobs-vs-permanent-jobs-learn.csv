@@ -1,0 +1,95 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Group Discussion - Contract Jobs vs. Permanent Jobs,,,
+header,title,,Group Discussion - Contract Jobs vs. Permanent Jobs,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Learn how to discuss contract jobs and permanent jobs in a group discussion,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to discuss Contract Jobs vs. Permanent Jobs in a group discussion.
+
+Using the right structure helps you speak clearly and confidently.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Cool!
+
+message:
+When you want to talk about what something offers or contributes, use this structure:
+
+""[Topic] offers [advantage].""
+
+For example: ""Contract jobs offer flexibility and diverse work experience.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Got it!
+
+message:
+Here's another example.
+
+If someone asks about the benefits of permanent jobs, you can say:
+
+""Permanent jobs offer stability and long-term career growth.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Next!
+
+message:
+When you want to mention both the advantage and the drawback, use this structure:
+
+""While [topic] offers [advantage], it also has a [drawback].""
+
+For example: ""While contract jobs offer flexibility, it also has a lack of job security.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Makes sense!
+
+message:
+Let's practice discussing contract jobs vs. permanent jobs!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Select the correct way to talk about what contract jobs offer
+
+1.Contract jobs offer flexibility and diverse work experience.
+2.Contract jobs are never a good option for professionals.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Select the correct way to talk about the drawback of permanent jobs
+
+1.Permanent jobs have no benefits and are not worth it.
+2.While permanent jobs offer stability, it also has limited variety in work.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Contract&&jobs offer&&a&&variety of&&projects&&and&&industries to&&gain&&experience.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While&&contract&&jobs offer&&independence, it&&also&&has the&&challenge of&&building&&long-term professional&&relationships.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Permanent&&jobs offer&&a&&sense of&&belonging and&&a&&strong team&&culture.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While&&permanent&&jobs offer&&security, it&&also&&has the&&drawback of&&limited&&variety in&&projects.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Contract&&jobs offer&&a&&chance to&&build a&&broad&&professional skill&&set.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. What does a contract job offer to an employee? Use Structure 1.'
+
+'2. While a contract job offers flexibility, what risk does it also bring? Respond using Structure 2.'
+
+'3. What does a permanent job offer to an employee? Use Structure 1.'
+
+'4. While a permanent job offers stability, what challenge does it also bring? Give your answer using Structure 2.'
+
+'5. What does a contract job offer to a company? Use Structure 1.'""
+sub_rules: """"
+can_do_statement: ""Group Discussion - Contract Jobs vs. Permanent Jobs""
+sentence_structure: ""[Topic] offers [advantage]. / While [topic] offers [advantage], it also has a [drawback].""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

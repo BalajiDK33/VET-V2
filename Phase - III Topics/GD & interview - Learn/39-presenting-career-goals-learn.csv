@@ -1,0 +1,93 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Presenting Career Goals,,,
+header,title,,Interview Preparation - Presenting Career Goals,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Learn how to present your career goals in an interview,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to present your career goals in an interview.
+
+Sharing your goals clearly shows confidence and planning ability.
+image_url:
+button_text: Cool!
+
+message:
+When you want to talk about your career goal and how you plan to achieve it, use this structure:
+
+""My career goal is to [goal], and I plan to achieve it by [action].""
+
+For example: ""My career goal is to become a team leader, and I plan to achieve it by improving my management skills.""
+image_url:
+button_text: Got it!
+
+message:
+Here's another example.
+
+If the interviewer asks where you see yourself in five years, you can say:
+
+""My career goal is to work in a multinational company, and I plan to achieve it by building my communication skills.""
+image_url:
+button_text: Next!
+
+message:
+This structure helps you answer clearly by stating your goal and your plan in one sentence.
+
+It makes your answer sound confident and well-prepared.
+image_url:
+button_text: Makes sense!
+
+message:
+Let's practice presenting your career goals!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,,"Select the correct way to present a career goal in an interview
+
+1.My career goal is to become a software engineer, and I plan to achieve it by completing relevant certifications.
+2.I don't really have a career goal right now.
+
+Correct answer: 1",,,
+1,mcqs,,"Select the correct way to mention a career goal with a clear plan
+
+1.I want a better job someday but I have not thought about it.
+2.My career goal is to start my own business, and I plan to achieve it by gaining industry experience first.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,,"My career goal is to become a senior analyst, and I plan to achieve it by developing my data interpretation skills.",,,
+2,jumbles_listening_comprehension,,"My career goal is to build a career in consulting, and I plan to achieve it by gaining diverse industry experience.",,,
+2,jumbles_listening_comprehension,,"My career goal is to work in product management, and I plan to achieve it by learning the product development process.",,,
+2,jumbles_listening_comprehension,,"My career goal is to become a training manager, and I plan to achieve it by developing my coaching and mentoring skills.",,,
+2,jumbles_listening_comprehension,,"My career goal is to work in a startup, and I plan to achieve it by building an entrepreneurial mindset.",,,
+2,section_type,,practice,,,
+3,roleplay,,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. The interviewer asks about your career goal in management. Share your goal and plan.'
+
+'2. The interviewer asks where you see yourself in five years. Share your career goal and action plan.'
+
+'3. The interviewer asks how you plan to grow in this industry. Share your goal and steps to achieve it.'
+
+'4. The interviewer asks what motivates you to work in this field. Share your career goal and plan.'
+
+'5. The interviewer asks about your long-term professional ambition. Share your goal and how you plan to achieve it.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Presenting Career Goals""
+sentence_structure: ""My career goal is to [goal], and I plan to achieve it by [action].""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

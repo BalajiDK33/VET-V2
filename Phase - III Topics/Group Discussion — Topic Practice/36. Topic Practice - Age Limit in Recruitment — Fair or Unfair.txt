@@ -10,11 +10,11 @@ Sentence Structure 2: "While [topic] offers [advantage], it also has a [drawback
 
 Roleplay Questions:
 
-1. What does an age limit in recruitment offer to a company?
-2. While an age limit offers a younger workforce, what challenge does it also bring?
-3. What does no age limit in recruitment offer to an organization?
-4. While no age limit offers diversity, what risk does it also bring?
-5. What does an age limit in recruitment offer to team energy?
+1. What does an age limit in recruitment offer to a company? Use Structure 1.
+2. While an age limit offers a younger workforce, what challenge does it also bring? Respond using Structure 2.
+3. What does no age limit in recruitment offer to an organization? Use Structure 1.
+4. While no age limit offers diversity, what risk does it also bring? Give your answer using Structure 2.
+5. What does an age limit in recruitment offer to team energy? Use Structure 1.
 
 Examples:
 

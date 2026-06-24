@@ -1,0 +1,93 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Presenting Ideas Clearly and Confidently,,,
+header,title,,Interview Preparation - Presenting Ideas Clearly and Confidently,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Learn how to present ideas clearly and confidently in an interview,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to present ideas clearly and confidently in an interview.
+
+A structured answer helps you sound organized and professional.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg
+button_text: Cool!
+
+message:
+When you want to present an idea with a clear beginning and conclusion, use this structure:
+
+""To begin with [point] and in conclusion [summary].""
+
+For example: ""To begin with remote work saves commute time and in conclusion it improves overall productivity.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg
+button_text: Got it!
+
+message:
+Here's another example.
+
+If the interviewer asks about teamwork, you can say:
+
+""To begin with teamwork builds trust and in conclusion it leads to better results.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg
+button_text: Next!
+
+message:
+This structure helps you present your ideas in a clear and logical way.
+
+It shows the interviewer that you can think and communicate in a structured manner.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg
+button_text: Makes sense!
+
+message:
+Let's practice presenting ideas clearly and confidently!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,"Select the correct way to present an idea clearly
+
+1.To begin with digital marketing is cost-effective and in conclusion it reaches a wider audience.
+2.Digital marketing is good because it is everywhere these days.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,"Select the correct way to present an idea about teamwork
+
+1.Teamwork is important. Everyone should work together. That is all.
+2.To begin with teamwork builds trust and in conclusion it leads to better results.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,To&&begin&&with good&&communication&&reduces&&conflicts and&&in&&conclusion it&&leads to&&better&&collaboration.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,To&&begin&&with proper&&training&&enhances&&skills and&&in&&conclusion it&&improves overall&&team&&performance.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,To&&begin&&with customer&&feedback&&helps&&identify&&problems and&&in&&conclusion it&&leads to&&better&&product&&quality.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,To&&begin&&with self-discipline&&builds&&focus and&&in&&conclusion it&&results in&&consistent&&and&&quality&&work.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,To&&begin&&with a&&positive&&mindset&&boosts&&confidence and&&in&&conclusion it&&helps&&achieve&&better&&results.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/289f7835-8c67-408b-86f6-c57e20de9684-Interview---Presenting-Ideas-Clearly-and-Confidently.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. The interviewer asks your opinion on remote work. Present your idea clearly using the structure.'
+
+'2. The interviewer asks how you would improve team productivity. Present your idea using the structure.'
+
+'3. The interviewer asks for your view on digital marketing. Share your idea using the structure.'
+
+'4. The interviewer asks how you handle work pressure. Present your point using the structure.'
+
+'5. The interviewer asks your opinion on teamwork in the workplace. Share your view using the structure.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Presenting Ideas Clearly and Confidently""
+sentence_structure: ""To begin with [point] and in conclusion [summary].""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

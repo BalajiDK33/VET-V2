@@ -1,0 +1,67 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Thank You and Follow-up Communication,,,
+header,title,,Interview Preparation - Thank You and Follow-up Communication,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to write thank you and follow-up messages after interviews,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to write a thank you and follow-up message after an interview.
+image_url:
+button_text: Continue!
+
+message: See this hint image to refresh your memory. ☝️
+image_url:
+button_text: Next!
+
+message: Great! Now answer some questions using the hint image.
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,,"Select the correct thank you message after an interview
+
+1.Thank you for the opportunity to interview for the operations manager role. I look forward to your update.
+2.Thanks for calling me for the interview. Hope you pick me.
+
+Correct answer: 1",,,
+1,mcqs,,"Select the correct follow-up message after an interview
+
+1.When will you let me know if I got the job?
+2.Thank you for the opportunity to interview for the content writer role. I look forward to hearing about the next steps.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,,Thank you for the opportunity to interview for the finance analyst role. I look forward to your feedback.,,,
+2,jumbles_listening_comprehension,,Thank you for the opportunity to interview for the operations coordinator role. I look forward to hearing from you.,,,
+2,jumbles_listening_comprehension,,Thank you for the opportunity to interview for the logistics executive role. I look forward to your update.,,,
+2,jumbles_listening_comprehension,,Thank you for the opportunity to interview for the accounts manager role. I look forward to your decision.,,,
+2,jumbles_listening_comprehension,,Thank you for the opportunity to interview for the public relations officer role. I look forward to the next steps.,,,
+2,section_type,,practice,,,
+3,roleplay,,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. You completed an interview for a finance analyst role. Write your thank you message using the structure.'
+
+'2. You attended an interview for an operations manager position. Write your follow-up message.'
+
+'3. You finished an interview for a content writer role. Write your thank you note using the structure.'
+
+'4. You had an interview for a logistics executive position. Write your message of appreciation and expectation.'
+
+'5. You completed an interview for a public relations officer role. Write your thank you and follow-up message.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Thank You and Follow-up Communication""
+sentence_structure: ""Thank you for the opportunity to interview for [role]. I look forward to [next step].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

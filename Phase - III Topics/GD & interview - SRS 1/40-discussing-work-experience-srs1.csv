@@ -1,0 +1,67 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Discussing Work Experience,,,
+header,title,,Interview Preparation - Discussing Work Experience,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to discuss your work experience in an interview,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to discuss your work experience in an interview.
+image_url:
+button_text: Continue!
+
+message: See this hint image to refresh your memory. ☝️
+image_url:
+button_text: Next!
+
+message: Great! Now answer some questions using the hint image.
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,,"Select the correct way to discuss work experience in an interview
+
+1.In my previous role, I was responsible for handling client accounts, which helped me develop relationship management skills.
+2.I have worked before but I did not learn anything useful from it.
+
+Correct answer: 1",,,
+1,mcqs,,"Select the correct way to connect past experience to a skill
+
+1.My previous job was not relevant to anything I do now.
+2.In my previous role, I was responsible for preparing financial reports, which helped me develop analytical thinking skills.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,,"In my previous role, I was responsible for handling client inquiries, which helped me develop strong communication and patience.",,,
+2,jumbles_listening_comprehension,,"In my previous role, I was responsible for coordinating between departments, which helped me develop cross-functional collaboration skills.",,,
+2,jumbles_listening_comprehension,,"In my previous role, I was responsible for managing deadlines and deliverables, which helped me develop strong time management skills.",,,
+2,jumbles_listening_comprehension,,"In my previous role, I was responsible for creating training materials, which helped me develop instructional design skills.",,,
+2,jumbles_listening_comprehension,,"In my previous role, I was responsible for resolving customer complaints, which helped me develop problem-solving and empathy.",,,
+2,section_type,,practice,,,
+3,roleplay,,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. The interviewer asks what tasks you handled in your last job. Share your responsibility and the skill you gained.'
+
+'2. The interviewer asks how your past work experience is relevant to this new role. Share your task and skill.'
+
+'3. The interviewer asks what you learned from your previous position. Share your responsibility and key takeaway.'
+
+'4. The interviewer asks about a challenge you handled in your last role. Share your task and the skill it helped you develop.'
+
+'5. The interviewer asks how your past experience prepared you for this role. Share your previous responsibility and skill.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Discussing Work Experience""
+sentence_structure: ""In my previous role, I was responsible for [task], which helped me develop [skill].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

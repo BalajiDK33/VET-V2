@@ -10,11 +10,11 @@ Sentence Structure 2: "While [topic] offers [advantage], it also has a [drawback
 
 Roleplay Questions:
 
-1. What does work pressure offer to an employee?
-2. While work pressure offers productivity, what risk does it also bring?
-3. What does work-life balance offer to an employee?
-4. While work-life balance offers better health, what challenge does it also bring?
-5. What does work pressure offer to career growth?
+1. What does work pressure offer to an employee? Use Structure 1.
+2. While work pressure offers productivity, what risk does it also bring? Respond using Structure 2.
+3. What does work-life balance offer to an employee? Use Structure 1.
+4. While work-life balance offers better health, what challenge does it also bring? Give your answer using Structure 2.
+5. What does work pressure offer to career growth? Use Structure 1.
 
 Examples:
 

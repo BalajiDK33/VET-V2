@@ -1,0 +1,93 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Thank You and Follow-up Communication,,,
+header,title,,Interview Preparation - Thank You and Follow-up Communication,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Learn how to write thank you and follow-up messages after interviews,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to write a thank you and follow-up message after an interview.
+
+Sending a thank you message leaves a positive impression on the interviewer.
+image_url:
+button_text: Cool!
+
+message:
+When you want to thank the interviewer and share your next expectation, use this structure:
+
+""Thank you for the opportunity to interview for [role]. I look forward to [next step].""
+
+For example: ""Thank you for the opportunity to interview for the HR executive role. I look forward to receiving your feedback.""
+image_url:
+button_text: Got it!
+
+message:
+Here's another example.
+
+After a sales interview, you can say:
+
+""Thank you for the opportunity to interview for the sales executive position. I look forward to hearing from you.""
+image_url:
+button_text: Next!
+
+message:
+This structure helps you close the conversation professionally and express your interest.
+
+It shows the interviewer that you are polite and serious about the role.
+image_url:
+button_text: Makes sense!
+
+message:
+Let's practice writing thank you and follow-up messages!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,,"Select the correct thank you message after an interview
+
+1.Thank you for the opportunity to interview for the marketing associate role. I look forward to the next steps.
+2.Thanks for the interview. Hope to hear from you.
+
+Correct answer: 1",,,
+1,mcqs,,"Select the correct follow-up message after a software developer interview
+
+1.When are you going to tell me if I got the job or not?
+2.Thank you for the opportunity to interview for the software developer position. I look forward to your decision.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,,Thank you for the opportunity to interview for the supply chain manager role. I look forward to your update.,,,
+2,jumbles_listening_comprehension,,Thank you for the opportunity to interview for the digital marketing executive role. I look forward to the next steps.,,,
+2,jumbles_listening_comprehension,,Thank you for the opportunity to interview for the IT support role. I look forward to joining your team.,,,
+2,jumbles_listening_comprehension,,Thank you for the opportunity to interview for the product manager role. I look forward to your decision.,,,
+2,jumbles_listening_comprehension,,Thank you for the opportunity to interview for the business analyst role. I look forward to hearing from you.,,,
+2,section_type,,practice,,,
+3,roleplay,,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. You have completed an interview for a sales executive role. Write your thank you message.'
+
+'2. You have finished an interview for a marketing associate position. Write your follow-up message.'
+
+'3. You attended an interview for an HR executive role. Write your thank you note.'
+
+'4. You completed a technical interview for a software developer position. Write your message.'
+
+'5. You had an interview for a customer service role. Write your thank you and follow-up message.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Thank You and Follow-up Communication""
+sentence_structure: ""Thank you for the opportunity to interview for [role]. I look forward to [next step].""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

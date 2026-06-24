@@ -10,11 +10,11 @@ Sentence Structure 2: "While [topic] offers [advantage], it also has a [drawback
 
 Roleplay Questions:
 
-1. What does hard skills offer to a job candidate?
-2. While hard skills offer technical ability, what challenge does it also bring?
-3. What does soft skills offer to a workplace?
-4. While soft skills offer better teamwork, what risk does it also bring?
-5. What does having both hard and soft skills offer to a professional?
+1. What does hard skills offer to a job candidate? Use Structure 1.
+2. While hard skills offer technical ability, what challenge does it also bring? Respond using Structure 2.
+3. What does soft skills offer to a workplace? Use Structure 1.
+4. While soft skills offer better teamwork, what risk does it also bring? Give your answer using Structure 2.
+5. What does having both hard and soft skills offer to a professional? Use Structure 1.
 
 Examples:
 

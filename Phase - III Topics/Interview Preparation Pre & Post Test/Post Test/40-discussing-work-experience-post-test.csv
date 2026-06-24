@@ -1,6 +1,6 @@
-section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
-header,icon_image_text,,Translate: Interview Preparation - Discussing Work Experience!,,,
-header,title,,Translate: Interview Preparation - Discussing Work Experience!,,,
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Interview Preparation - Discussing Work Experience!,,,
+header,title,,Test: Interview Preparation - Discussing Work Experience!,,,
 config,voices,,Priya-Priya,,,
 config,activity_type,,roleplay,,,
 config,display_activity_type,,Translate & Learn,,,
@@ -15,10 +15,11 @@ config,english_language_toggle,,FALSE,,,
 config,skip_transcription,,TRUE,,,
 config,rich_chat,,TRUE,,,
 config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
 config,disable_skip,,FALSE,,,
 config,tts_config,,"{""silent_mode"":false}",,,
 config,badge_title,,Translate,,,
-1,staged_roleplay,,"first_message: Hey there! Now I will give you 10 sentences to translate into English.This activity is just for my understanding on how well you know this concept so don't worry about making any mistakes. Can we start?
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
 below are array of question objects to be put inside key staged_questions.default.questions
 
 prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c

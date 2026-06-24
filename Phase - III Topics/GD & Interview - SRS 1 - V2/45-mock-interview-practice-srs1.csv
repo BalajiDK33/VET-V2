@@ -1,0 +1,71 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Mock Interview Practice,,,
+header,title,,Interview Preparation - Mock Interview Practice,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to answer mock interview questions about your strengths,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to talk about your greatest strength in a mock interview.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""My greatest strength is [skill] because [reason].""
+
+This structure helps you present your strength confidently and back it up with a clear reason.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b7442078-39e0-4b6b-aae3-b6c5009a9ee6-Interview---Mock-practice.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b7442078-39e0-4b6b-aae3-b6c5009a9ee6-Interview---Mock-practice.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b7442078-39e0-4b6b-aae3-b6c5009a9ee6-Interview---Mock-practice.jpg,"Select the correct way to talk about your greatest strength
+
+1.My greatest strength is leadership because I can guide teams to achieve goals effectively.
+2.I am good at many things and it is hard to pick just one strength.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b7442078-39e0-4b6b-aae3-b6c5009a9ee6-Interview---Mock-practice.jpg,"Select the correct way to explain a strength with a clear reason
+
+1.My greatest strength is creativity because I come up with innovative solutions to complex problems.
+2.Creativity is my strength. I am always creative at work and in life.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b7442078-39e0-4b6b-aae3-b6c5009a9ee6-Interview---Mock-practice.jpg,My&&greatest&&strength is&&patience because&&it&&helps me&&work&&through&&difficult&&situations without&&losing&&focus.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b7442078-39e0-4b6b-aae3-b6c5009a9ee6-Interview---Mock-practice.jpg,My&&greatest&&strength is&&analytical&&thinking because&&it&&helps me&&break down&&complex&&problems into&&manageable&&steps.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b7442078-39e0-4b6b-aae3-b6c5009a9ee6-Interview---Mock-practice.jpg,My&&greatest&&strength is&&empathy because&&it&&helps me&&connect with&&my&&colleagues and&&understand&&their&&needs.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b7442078-39e0-4b6b-aae3-b6c5009a9ee6-Interview---Mock-practice.jpg,My&&greatest&&strength is&&reliability because&&it&&helps me&&consistently&&deliver&&high-quality work&&on&&time.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b7442078-39e0-4b6b-aae3-b6c5009a9ee6-Interview---Mock-practice.jpg,My&&greatest&&strength is&&initiative because&&it&&helps me&&identify&&opportunities and&&take&&action&&without&&waiting to&&be&&asked.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b7442078-39e0-4b6b-aae3-b6c5009a9ee6-Interview---Mock-practice.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. The interviewer asks about your greatest strength. Share your strength and give a reason.'
+
+'2. The interviewer asks what skill makes you a strong candidate. Share your strength and reason.'
+
+'3. The interviewer asks what you are best at. Name your strength and explain why it helps you at work.'
+
+'4. The interviewer asks what one quality defines you professionally. Share your strength and reason.'
+
+'5. The interviewer asks how you add value to a team. Share your greatest strength and why it matters.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Mock Interview Practice""
+sentence_structure: ""My greatest strength is [skill] because [reason].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

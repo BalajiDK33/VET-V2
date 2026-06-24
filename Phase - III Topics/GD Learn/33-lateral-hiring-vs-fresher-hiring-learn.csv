@@ -1,0 +1,95 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Group Discussion - Lateral Hiring vs. Fresher Hiring,,,
+header,title,,Group Discussion - Lateral Hiring vs. Fresher Hiring,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Learn how to discuss lateral hiring and fresher hiring in a group discussion,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to discuss Lateral Hiring vs. Fresher Hiring in a group discussion.
+
+Using the right structure helps you speak clearly and confidently.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg 
+button_text: Cool!
+
+message:
+When you want to talk about what something offers or contributes, use this structure:
+
+""[Topic] offers [advantage].""
+
+For example: ""Lateral hiring offers immediate expertise to the organization.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg 
+button_text: Got it!
+
+message:
+Here's another example.
+
+If someone asks about the benefits of fresher hiring, you can say:
+
+""Fresher hiring offers new energy and fresh perspectives to the team.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg 
+button_text: Next!
+
+message:
+When you want to mention both the advantage and the drawback, use this structure:
+
+""While [topic] offers [advantage], it also has a [drawback].""
+
+For example: ""While lateral hiring offers experience, it also has a higher cost of recruitment.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg 
+button_text: Makes sense!
+
+message:
+Let's practice discussing lateral hiring vs. fresher hiring!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Select the correct way to talk about what lateral hiring offers
+
+1.Lateral hiring offers immediate expertise to the organization.
+2.Lateral hiring is always better than fresher hiring.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Select the correct way to talk about the drawback of fresher hiring
+
+1.Fresher hiring is a bad idea because they have no skills.
+2.While fresher hiring offers adaptability, it also has a longer training period.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Lateral hiring offers specialized domain knowledge that is directly applicable.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While lateral hiring offers quick onboarding, it also has the challenge of blending into a new work culture.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Fresher hiring offers long-term commitment and loyalty to the organization.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While fresher hiring offers enthusiasm, it also has the challenge of limited work experience.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Lateral hiring offers a strong industry network to the company.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. What does lateral hiring offer to a company? Use Structure 1.'
+
+'2. While lateral hiring offers experience, what challenge does it also bring? Respond using Structure 2.'
+
+'3. What does fresher hiring offer to an organization? Use Structure 1.'
+
+'4. While fresher hiring offers fresh ideas, what risk does it also bring? Give your answer using Structure 2.'
+
+'5. What does lateral hiring offer to team performance? Use Structure 1.'""
+sub_rules: """"
+can_do_statement: ""Group Discussion - Lateral Hiring vs. Fresher Hiring""
+sentence_structure: ""[Topic] offers [advantage]. / While [topic] offers [advantage], it also has a [drawback].""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

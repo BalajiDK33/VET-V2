@@ -1,0 +1,67 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Mock Interview Practice,,,
+header,title,,Interview Preparation - Mock Interview Practice,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to answer mock interview questions confidently,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to talk about your greatest strength in a mock interview.
+image_url:
+button_text: Continue!
+
+message: See this hint image to refresh your memory. ☝️
+image_url:
+button_text: Next!
+
+message: Great! Now answer some questions using the hint image.
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,,"Select the correct way to talk about your greatest strength
+
+1.My greatest strength is adaptability because I can adjust quickly to new environments and expectations.
+2.I have many strengths but I cannot think of any right now.
+
+Correct answer: 1",,,
+1,mcqs,,"Select the correct way to explain a strength with a clear reason
+
+1.I am good at my job and that is my strength.
+2.My greatest strength is critical thinking because it helps me make well-informed decisions under pressure.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,,My greatest strength is empathy because it helps me understand and connect with people around me.,,,
+2,jumbles_listening_comprehension,,My greatest strength is persistence because it drives me to keep going even when I face challenges.,,,
+2,jumbles_listening_comprehension,,My greatest strength is creativity because it allows me to find new and better ways to solve problems.,,,
+2,jumbles_listening_comprehension,,My greatest strength is reliability because people can always count on me to deliver what I promise.,,,
+2,jumbles_listening_comprehension,,My greatest strength is initiative because it pushes me to take action without waiting to be told.,,,
+2,section_type,,practice,,,
+3,roleplay,,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. The interviewer asks what your greatest professional strength is. Share your strength and reason.'
+
+'2. The interviewer asks how your key strength helps you in your work. Share your skill and reason.'
+
+'3. The interviewer asks you to describe the quality that defines your work style. Share your strength and reason.'
+
+'4. The interviewer asks which skill sets you apart from other candidates. Share your greatest strength and reason.'
+
+'5. The interviewer asks how your strength benefits a team environment. Share your skill and reason.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Mock Interview Practice""
+sentence_structure: ""My greatest strength is [skill] because [reason].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

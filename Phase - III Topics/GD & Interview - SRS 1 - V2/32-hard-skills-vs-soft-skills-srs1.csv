@@ -1,0 +1,67 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Group Discussion - Hard Skills vs. Soft Skills,,,
+header,title,,Group Discussion - Hard Skills vs. Soft Skills,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to discuss hard skills vs. soft skills in a group discussion,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to discuss Hard Skills vs. Soft Skills in a group discussion.
+image_url:
+button_text: Continue!
+
+message: See this hint image to refresh your memory. ☝️
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Next!
+
+message: Great! Now answer some questions using the hint image.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Look at the hint image and select the correct way to talk about what hard skills offer
+
+1.Hard skills offer precise technical knowledge needed to perform specific job functions.
+2.Hard skills are not relevant in today's modern workplace.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Look at the hint image and select the correct way to talk about the drawback of soft skills
+
+1.Soft skills are irrelevant and should not be considered in hiring.
+2.While soft skills offer better collaboration, it also has the challenge of being difficult to measure and assess.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Hard&&skills offer the&&technical&&foundation needed&&to&&perform specialized&&tasks&&accurately.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While&&hard&&skills offer&&job-specific&&expertise, it&&also&&has the&&limitation of&&becoming outdated&&quickly.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Soft&&skills offer&&the&&ability to&&build&&meaningful&&relationships with&&colleagues and&&clients.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While&&soft&&skills offer&&strong&&communication&&ability, it&&also&&has the&&challenge&&of varying&&across individuals.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Having&&both hard&&and&&soft&&skills offers&&a&&well-rounded professional&&advantage in&&any&&industry.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. What does having strong hard skills offer to a job applicant? Use Structure 1.'
+
+'2. While hard skills offer technical precision, what limitation does it also bring? Use Structure 2.'
+
+'3. What does developing soft skills offer to a team leader? Use Structure 1.'
+
+'4. While soft skills offer interpersonal advantage, what challenge does it also create? Use Structure 2.'
+
+'5. What does a balance of hard and soft skills offer to a professional's overall career? Use Structure 1.'""
+sub_rules: """"
+can_do_statement: ""Group Discussion - Hard Skills vs. Soft Skills""
+sentence_structure: ""[Topic] offers [advantage]. / While [topic] offers [advantage], it also has a [drawback].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

@@ -10,11 +10,11 @@ Sentence Structure 2: "While [topic] offers [advantage], it also has a [drawback
 
 Roleplay Questions:
 
-1. What does a resume offer to a recruiter?
-2. While a resume offers a first impression, what challenge does it also bring?
-3. What does a resume offer to the hiring process?
-4. While a resume offers documented skills, what risk does it also bring?
-5. What does a resume offer to a candidate's job search?
+1. What does a resume offer to a recruiter? Use Structure 1.
+2. While a resume offers a first impression, what challenge does it also bring? Respond using Structure 2.
+3. What does a resume offer to the hiring process? Use Structure 1.
+4. While a resume offers documented skills, what risk does it also bring? Give your answer using Structure 2.
+5. What does a resume offer to a candidate's job search? Use Structure 1.
 
 Examples:
 

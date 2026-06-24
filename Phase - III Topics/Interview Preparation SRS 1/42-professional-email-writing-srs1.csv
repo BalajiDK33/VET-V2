@@ -1,0 +1,67 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Professional Email Writing,,,
+header,title,,Interview Preparation - Professional Email Writing,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to write professional emails for interviews,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to write professional emails for interview-related communication.
+image_url:
+button_text: Continue!
+
+message: See this hint image to refresh your memory. ☝️
+image_url:
+button_text: Next!
+
+message: Great! Now answer some questions using the hint image.
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,,"Select the correct professional email opening line
+
+1.I am writing to express my interest in the position and I look forward to discussing my application further.
+2.I want the job and I will be great at it, please respond soon.
+
+Correct answer: 1",,,
+1,mcqs,,"Select the correct way to write a follow-up email
+
+1.You haven't replied so I am emailing again to remind you.
+2.I am writing to follow up on my interview and I look forward to receiving your decision.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,,I am writing to confirm my attendance at the scheduled interview and I look forward to the discussion.,,,
+2,jumbles_listening_comprehension,,I am writing to introduce myself as a candidate for the open position and I look forward to your consideration.,,,
+2,jumbles_listening_comprehension,,I am writing to request a rescheduling of the interview and I look forward to your understanding.,,,
+2,jumbles_listening_comprehension,,I am writing to express gratitude for the opportunity given and I look forward to contributing to the team.,,,
+2,jumbles_listening_comprehension,,I am writing to submit my project report as requested and I look forward to your valuable feedback.,,,
+2,section_type,,practice,,,
+3,roleplay,,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. You want to confirm an interview appointment. Write the opening line of your email.'
+
+'2. You want to introduce yourself for a job opening. Write the opening line of your professional email.'
+
+'3. You want to request a rescheduling of a meeting. Write the opening line of your email.'
+
+'4. You want to thank the recruiter after an interview. Write the opening line of your email.'
+
+'5. You want to follow up on a job offer. Write the opening line of your professional email.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Professional Email Writing""
+sentence_structure: ""I am writing to [purpose] and I look forward to [response].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

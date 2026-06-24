@@ -1,0 +1,67 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Group Discussion - Leadership — Born or Made,,,
+header,title,,Group Discussion - Leadership — Born or Made,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to discuss leadership in a group discussion,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to discuss Leadership — Born or Made in a group discussion.
+image_url:
+button_text: Continue!
+
+message: See this hint image to refresh your memory. ☝️
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Next!
+
+message: Great! Now answer some questions using the hint image.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Look at the hint image and select the correct way to talk about what born leadership offers
+
+1.Born leadership offers a natural ability to inspire and influence people from an early stage.
+2.Born leadership has no value in a professional setting.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Look at the hint image and select the correct way to talk about the drawback of learned leadership
+
+1.Learned leadership is always perfect and has no limitations.
+2.While learned leadership offers structured development, it also has the challenge of lacking natural instincts in crisis situations.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Born&&leadership offers&&an&&innate&&ability to&&remain&&calm and&&decisive under&&challenging&&situations.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While&&born&&leadership offers&&natural&&charisma, it&&also&&has the&&risk of&&being&&resistant to&&feedback&&and&&new&&ideas.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Learned&&leadership offers&&the&&advantage of&&applying&&tested&&strategies and&&frameworks to&&manage&&people.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While&&learned&&leadership offers&&planned&&growth, it&&also&&has the&&challenge&&of taking&&time&&and&&consistent&&effort to&&develop.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Combining&&born&&talent and&&learned&&skills offers&&the&&most&&effective form&&of&&leadership in&&any&&organization.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. What does born leadership offer to a team facing a sudden challenge? Use Structure 1.'
+
+'2. While born leadership offers strong vision, what risk does it also bring to the team? Use Structure 2.'
+
+'3. What does learned leadership offer to professionals who want to grow into senior roles? Use Structure 1.'
+
+'4. While learned leadership offers structured growth, what challenge does it also present? Use Structure 2.'
+
+'5. What does a combination of born and learned leadership offer to an organization's long-term success? Use Structure 1.'""
+sub_rules: """"
+can_do_statement: ""Group Discussion - Leadership — Born or Made""
+sentence_structure: ""[Topic] offers [advantage]. / While [topic] offers [advantage], it also has a [drawback].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

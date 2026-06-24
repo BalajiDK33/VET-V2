@@ -1,0 +1,67 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Interview Preparation - Presenting Ideas Clearly and Confidently,,,
+header,title,,Interview Preparation - Presenting Ideas Clearly and Confidently,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to present ideas clearly and confidently in an interview,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to present ideas clearly and confidently in an interview.
+image_url:
+button_text: Continue!
+
+message: See this hint image to refresh your memory. ☝️
+image_url:
+button_text: Next!
+
+message: Great! Now answer some questions using the hint image.
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,,"Select the correct way to present an idea clearly
+
+1.To begin with data-driven decisions improve accuracy and in conclusion they lead to better business outcomes.
+2.Data is useful for companies. That is all I can say about it.
+
+Correct answer: 1",,,
+1,mcqs,,"Select the correct way to present an idea about leadership
+
+1.Leadership is very important but I am not sure what to say about it.
+2.To begin with strong leadership inspires the team and in conclusion it drives the organization toward its goals.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,,To begin with consistent feedback improves performance and in conclusion it builds a culture of continuous improvement.,,,
+2,jumbles_listening_comprehension,,To begin with effective time management reduces stress and in conclusion it leads to higher productivity and work quality.,,,
+2,jumbles_listening_comprehension,,To begin with active listening builds trust and in conclusion it results in stronger and more productive relationships.,,,
+2,jumbles_listening_comprehension,,To begin with clear goal setting improves focus and in conclusion it helps teams achieve better and faster results.,,,
+2,jumbles_listening_comprehension,,To begin with regular training enhances skills and in conclusion it creates a more capable and confident workforce.,,,
+2,section_type,,practice,,,
+3,roleplay,,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. The interviewer asks your opinion on the importance of customer service. Present your idea clearly.'
+
+'2. The interviewer asks how you would improve employee engagement. Share your idea using the structure.'
+
+'3. The interviewer asks for your view on the role of technology in the workplace. Present your idea clearly.'
+
+'4. The interviewer asks how you handle conflict resolution. Share your point using the structure.'
+
+'5. The interviewer asks your opinion on the importance of communication in leadership. Present your view clearly.'""
+sub_rules: """"
+can_do_statement: ""Interview Preparation - Presenting Ideas Clearly and Confidently""
+sentence_structure: ""To begin with [point] and in conclusion [summary].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

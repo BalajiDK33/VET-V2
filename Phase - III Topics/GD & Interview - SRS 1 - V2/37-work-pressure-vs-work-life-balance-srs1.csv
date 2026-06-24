@@ -1,0 +1,67 @@
+section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Group Discussion - Work Pressure vs. Work-Life Balance,,,
+header,title,,Group Discussion - Work Pressure vs. Work-Life Balance,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-adults-level-A1,,,
+config,description,,Revise how to discuss work pressure vs. work-life balance in a group discussion,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to discuss Work Pressure vs. Work-Life Balance in a group discussion.
+image_url:
+button_text: Continue!
+
+message: See this hint image to refresh your memory. ☝️
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Next!
+
+message: Great! Now answer some questions using the hint image.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Look at the hint image and select the correct way to talk about what work pressure offers
+
+1.Work pressure offers a great opportunity to develop resilience and strong time management skills.
+2.Work pressure is always harmful and should be completely avoided.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"Look at the hint image and select the correct way to talk about the drawback of work-life balance
+
+1.Work-life balance is always perfect and never creates any issues at all.
+2.While work-life balance offers mental well-being, it also has the risk of reducing urgency and missing critical deadlines.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Work&&pressure offers&&a&&powerful&&motivation to&&push employees&&beyond&&their&&usual&&performance&&limits.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While&&work&&pressure offers&&faster&&task&&completion, it&&also&&has the&&risk of&&increasing&&burnout and&&employee&&turnover.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Work-life&&balance offers&&employees a&&chance to&&recharge and&&return&&to&&work with&&full&&productivity.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"While&&work-life&&balance offers&&better&&mental&&health, it&&also&&has the&&challenge of&&keeping&&up with&&fast-paced&&project&&timelines.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,Work&&pressure offers&&the&&benefit of&&helping employees&&build&&resilience and&&strong&&problem-solving&&abilities.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/ac97b412-5884-4fb6-82c6-42597079df71-GD---v2-(1).jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. What does moderate work pressure offer to a professional trying to grow in their career? Use Structure 1.'
+
+'2. While work pressure offers high performance, what risk does it also bring to the employee? Use Structure 2.'
+
+'3. What does maintaining a healthy work-life balance offer to an employee's overall well-being? Use Structure 1.'
+
+'4. While work-life balance offers personal happiness, what challenge does it also create at the workplace? Use Structure 2.'
+
+'5. What specific advantage does work pressure offer when preparing for high-stakes project deliveries? Use Structure 1.'""
+sub_rules: """"
+can_do_statement: ""Group Discussion - Work Pressure vs. Work-Life Balance""
+sentence_structure: ""[Topic] offers [advantage]. / While [topic] offers [advantage], it also has a [drawback].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,
