@@ -1,0 +1,71 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Workplace Small Talk,,,
+header,title,,Workplace Small Talk,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Revise how to make small talk with colleagues at work,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 2,,,
+1,chat_lessons,,"message: Let's revise how to make friendly small talk with colleagues at work.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""It has been [adjective] lately — how are you managing [situation]?""
+
+This warm and natural structure helps you start conversations and show that you care about your colleagues.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/2ae64bdf-bb3c-4528-8205-c06f6d52888d-51.-Workplace-Small-Talk.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/2ae64bdf-bb3c-4528-8205-c06f6d52888d-51.-Workplace-Small-Talk.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/2ae64bdf-bb3c-4528-8205-c06f6d52888d-51.-Workplace-Small-Talk.jpg,"Select the correct way to make small talk with a returning colleague
+
+1.Where were you for so many days? We had to do all the work without you.
+2.It has been a bit overwhelming lately — how are you managing the team transitions?
+
+Correct answer: 2",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/2ae64bdf-bb3c-4528-8205-c06f6d52888d-51.-Workplace-Small-Talk.jpg,"Select the correct way to start a friendly office conversation
+
+1.It has been quite exciting lately — how are you managing all the new responsibilities?
+2.This month has had a lot of changes and I am not happy with most of them.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/2ae64bdf-bb3c-4528-8205-c06f6d52888d-51.-Workplace-Small-Talk.jpg,It&&has&&been quite&&demanding lately&&— how&&are&&you managing the&&client&&expectations?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/2ae64bdf-bb3c-4528-8205-c06f6d52888d-51.-Workplace-Small-Talk.jpg,It&&has&&been extremely&&productive lately&&— how&&are&&you managing your&&time&&so&&well?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/2ae64bdf-bb3c-4528-8205-c06f6d52888d-51.-Workplace-Small-Talk.jpg,It&&has&&been a&&bit&&overwhelming lately&&— how&&are&&you managing the&&team&&transitions?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/2ae64bdf-bb3c-4528-8205-c06f6d52888d-51.-Workplace-Small-Talk.jpg,It&&has&&been quite&&exciting lately&&— how&&are&&you managing all&&the&&new&&responsibilities?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/2ae64bdf-bb3c-4528-8205-c06f6d52888d-51.-Workplace-Small-Talk.jpg,It&&has&&been pretty&&rushed lately&&— how&&are&&you managing the&&end-of-month&&targets?,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/2ae64bdf-bb3c-4528-8205-c06f6d52888d-51.-Workplace-Small-Talk.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. You meet a colleague during a coffee break. How do you start a friendly conversation?'
+
+'2. You see a colleague you have not spoken to in a while. How do you break the ice?'
+
+'3. You are waiting for a virtual call to start. How do you make small talk with a colleague?'
+
+'4. You meet your manager in the elevator. How do you start a quick friendly chat?'
+
+'5. A team member just returned from a long trip. How do you start a warm conversation?'""
+sub_rules: """"
+can_do_statement: ""Workplace Small Talk""
+sentence_structure: ""It has been [adjective] lately — how are you managing [situation]?""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

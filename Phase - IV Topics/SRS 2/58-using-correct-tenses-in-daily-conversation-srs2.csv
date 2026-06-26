@@ -1,0 +1,71 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Using Correct Tenses in Daily Conversation,,,
+header,title,,Using Correct Tenses in Daily Conversation,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Revise how to use correct tenses in daily conversation,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 2,,,
+1,chat_lessons,,"message: Let's revise how to use past and present tenses correctly in daily conversation.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""Yesterday I [past action] and today I am [present action].""
+
+Simple past for yesterday, present continuous for today — this makes your speech clear and natural.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/7216d41e-4b29-4f8b-ae9a-2811133877c1-58.-Using-Correct-Tenses-in-Daily-Conversation.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/7216d41e-4b29-4f8b-ae9a-2811133877c1-58.-Using-Correct-Tenses-in-Daily-Conversation.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/7216d41e-4b29-4f8b-ae9a-2811133877c1-58.-Using-Correct-Tenses-in-Daily-Conversation.jpg,"Select the sentence that uses correct tenses
+
+1.Yesterday I met with the client and today I am drafting the follow-up email.
+2.Yesterday I am meeting the client and today I will draft the email for follow-up.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/7216d41e-4b29-4f8b-ae9a-2811133877c1-58.-Using-Correct-Tenses-in-Daily-Conversation.jpg,"Select the sentence that correctly describes a task sequence
+
+1.Yesterday I reviewed the contractor invoices and today I am processing the payments.
+2.Yesterday I review the contractor invoices and today I will process the payments.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/7216d41e-4b29-4f8b-ae9a-2811133877c1-58.-Using-Correct-Tenses-in-Daily-Conversation.jpg,Yesterday&&I&&updated the&&sales&&database and&&today I&&am&&generating the&&weekly report.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/7216d41e-4b29-4f8b-ae9a-2811133877c1-58.-Using-Correct-Tenses-in-Daily-Conversation.jpg,Yesterday&&I&&met with&&the&&client and&&today I&&am&&drafting the&&follow-up email.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/7216d41e-4b29-4f8b-ae9a-2811133877c1-58.-Using-Correct-Tenses-in-Daily-Conversation.jpg,Yesterday&&I&&organised the&&team&&files and&&today I&&am&&creating the&&project folder.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/7216d41e-4b29-4f8b-ae9a-2811133877c1-58.-Using-Correct-Tenses-in-Daily-Conversation.jpg,Yesterday&&I&&fixed the&&software&&issue and&&today I&&am&&testing the&&updated version.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/7216d41e-4b29-4f8b-ae9a-2811133877c1-58.-Using-Correct-Tenses-in-Daily-Conversation.jpg,Yesterday&&I&&reviewed the&&contractor&&invoices and&&today I&&am&&processing the payments.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/7216d41e-4b29-4f8b-ae9a-2811133877c1-58.-Using-Correct-Tenses-in-Daily-Conversation.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. Your manager asks what you worked on yesterday and what you are doing now. How do you respond?'
+
+'2. A colleague asks for a quick update on your progress. How do you describe it using past and present tenses?'
+
+'3. Your friend asks what you did at work yesterday and what today looks like. How do you respond?'
+
+'4. Your team leader asks for a brief daily status. How do you describe yesterday and today's tasks?'
+
+'5. During a team meeting, your turn comes to share your update. How do you describe what you did yesterday and today?'""
+sub_rules: """"
+can_do_statement: ""Using Correct Tenses in Daily Conversation""
+sentence_structure: ""Yesterday I [past action] and today I am [present action].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

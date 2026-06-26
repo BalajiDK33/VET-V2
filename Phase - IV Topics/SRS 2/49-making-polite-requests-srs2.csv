@@ -1,0 +1,71 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Making Polite Requests,,,
+header,title,,Making Polite Requests,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Revise how to make polite requests at work,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 2,,,
+1,chat_lessons,,"message: Let's revise how to make polite requests at work.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""Would it be possible for you to [action] by [time]?""
+
+This polite structure makes your request sound professional and gives the other person a clear deadline.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,"Select the correct way to request a rescheduled meeting
+
+1.I cannot attend the meeting at that time so we need to change it.
+2.Would it be possible for you to reschedule the meeting by this afternoon?
+
+Correct answer: 2",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,"Select the correct polite request to a colleague
+
+1.Would it be possible for you to forward the documents by today evening?
+2.You need to forward the documents to me before you leave today.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,Would&&it&&be&&possible for&&you&&to reschedule&&the&&meeting by this afternoon?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,Would&&it&&be&&possible for&&you&&to confirm&&the&&booking by tomorrow morning?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,Would&&it&&be&&possible for&&you&&to update&&the&&dashboard by&&end of&&this week?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,Would&&it&&be&&possible for&&you&&to forward&&the&&documents by today evening?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,Would&&it&&be&&possible for&&you&&to respond&&to&&the&&email by noon tomorrow?,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. You need a team member to send you a report. How do you make a polite request?'
+
+'2. You need your manager to confirm a meeting time. How do you ask politely?'
+
+'3. You need a colleague to help you with a presentation. How do you make a polite request?'
+
+'4. You need the finance team to process your reimbursement. How do you ask politely?'
+
+'5. You need a vendor to deliver early. How do you make a polite request?'""
+sub_rules: """"
+can_do_statement: ""Making Polite Requests""
+sentence_structure: ""Would it be possible for you to [action] by [time]?""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

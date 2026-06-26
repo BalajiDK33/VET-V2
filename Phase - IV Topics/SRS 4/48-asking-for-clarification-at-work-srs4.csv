@@ -1,0 +1,71 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Asking for Clarification at Work,,,
+header,title,,Asking for Clarification at Work,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Revise how to ask for clarification politely at work,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 4,,,
+1,chat_lessons,,"message: Let's revise how to ask for clarification politely when instructions are unclear at work.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""Could you please clarify [instruction] so that I can [action]?""
+
+This structure shows your manager that you want to complete the task correctly.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/a75c69e6-50e1-4b23-be38-3f49cad2620c-48.-Asking-for-Clarification-at-Work.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/a75c69e6-50e1-4b23-be38-3f49cad2620c-48.-Asking-for-Clarification-at-Work.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/a75c69e6-50e1-4b23-be38-3f49cad2620c-48.-Asking-for-Clarification-at-Work.jpg,"Select the correct way to ask for clarification about a process
+
+1.I am confused about the review process, just tell me what to do.
+2.Could you please clarify the review process so that I can submit my work on time?
+
+Correct answer: 2",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/a75c69e6-50e1-4b23-be38-3f49cad2620c-48.-Asking-for-Clarification-at-Work.jpg,"Select the correct way to ask for clarification about priorities
+
+1.Could you please clarify the priority of tasks so that I can plan my schedule accordingly?
+2.There are too many tasks and I do not know which one to start with.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/a75c69e6-50e1-4b23-be38-3f49cad2620c-48.-Asking-for-Clarification-at-Work.jpg,Could&&you&&please&&clarify the&&budget&&limit so&&that I&&can prepare&&the&&cost&&estimate correctly,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/a75c69e6-50e1-4b23-be38-3f49cad2620c-48.-Asking-for-Clarification-at-Work.jpg,Could&&you&&please&&clarify the&&client&&requirements so&&that I&&can finalise&&the&&proposal correctly,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/a75c69e6-50e1-4b23-be38-3f49cad2620c-48.-Asking-for-Clarification-at-Work.jpg,Could&&you&&please&&clarify the&&review&&process so&&that I&&can submit&&my&&work on&&time,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/a75c69e6-50e1-4b23-be38-3f49cad2620c-48.-Asking-for-Clarification-at-Work.jpg,Could&&you&&please&&clarify the&&priority&&of&&tasks so&&that I&&can plan&&my&&schedule accordingly,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/a75c69e6-50e1-4b23-be38-3f49cad2620c-48.-Asking-for-Clarification-at-Work.jpg,Could&&you&&please&&clarify the&&handover&&process so&&that I&&can take&&over&&the&&work correctly,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/a75c69e6-50e1-4b23-be38-3f49cad2620c-48.-Asking-for-Clarification-at-Work.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. Your manager sends an email with unclear next steps. How do you ask for clarification?'
+
+'2. A colleague gives you instructions for a handover task. How do you ask for clarification?'
+
+'3. Your supervisor explains a new process but skips some details. How do you ask for clarification?'
+
+'4. Your team leader gives you a confusing brief. How do you ask for clarification politely?'
+
+'5. Your manager mentions a change in plans. How do you ask for clarification to proceed correctly?'""
+sub_rules: """"
+can_do_statement: ""Asking for Clarification at Work""
+sentence_structure: ""Could you please clarify [instruction] so that I can [action]?""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

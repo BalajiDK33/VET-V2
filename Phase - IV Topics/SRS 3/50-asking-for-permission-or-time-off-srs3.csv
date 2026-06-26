@@ -1,0 +1,71 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Asking for Permission or Time Off,,,
+header,title,,Asking for Permission or Time Off,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Revise how to ask for permission or time off at work,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 3,,,
+1,chat_lessons,,"message: Let's revise how to ask for permission or time off professionally.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""I would like to request [leave/permission] because [reason].""
+
+Giving a clear reason makes your request sound professional and helps your manager decide quickly.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/93a1dada-f9a2-409b-82f8-4f08879d8e28-50.-Asking-for-Permission-or-Time-Off.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/93a1dada-f9a2-409b-82f8-4f08879d8e28-50.-Asking-for-Permission-or-Time-Off.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/93a1dada-f9a2-409b-82f8-4f08879d8e28-50.-Asking-for-Permission-or-Time-Off.jpg,"Select the correct way to request emergency leave
+
+1.Something came up at home so I cannot come to work today.
+2.I would like to request casual leave because I am not feeling well today.
+
+Correct answer: 2",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/93a1dada-f9a2-409b-82f8-4f08879d8e28-50.-Asking-for-Permission-or-Time-Off.jpg,"Select the correct way to request study leave
+
+1.I would like to request study leave because I have an important examination coming up.
+2.I need to take leave for a few days because I have an exam and I need to study.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/93a1dada-f9a2-409b-82f8-4f08879d8e28-50.-Asking-for-Permission-or-Time-Off.jpg,I&&would&&like&&to&&request casual&&leave because I&&am not&&feeling&&well today.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/93a1dada-f9a2-409b-82f8-4f08879d8e28-50.-Asking-for-Permission-or-Time-Off.jpg,I&&would&&like&&to&&request permission&&to&&come&&in late because my&&commute is&&disrupted.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/93a1dada-f9a2-409b-82f8-4f08879d8e28-50.-Asking-for-Permission-or-Time-Off.jpg,I&&would&&like&&to&&request three&&days&&of&&leave because I&&need&&to&&travel for&&a&&family matter.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/93a1dada-f9a2-409b-82f8-4f08879d8e28-50.-Asking-for-Permission-or-Time-Off.jpg,I&&would&&like&&to&&request flexi-time because I&&have&&a doctor's&&appointment in&&the&&morning.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/93a1dada-f9a2-409b-82f8-4f08879d8e28-50.-Asking-for-Permission-or-Time-Off.jpg,I&&would&&like&&to&&request an&&extra&&day&&off because I&&need to&&complete&&my passport&&renewal.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/93a1dada-f9a2-409b-82f8-4f08879d8e28-50.-Asking-for-Permission-or-Time-Off.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. You are not feeling well and need to take a sick day. How do you request leave from your manager?'
+
+'2. You have a government appointment and need to leave early. How do you ask for permission?'
+
+'3. You want to attend an industry event during work hours. How do you request permission?'
+
+'4. You need to travel for a family emergency. How do you request emergency leave?'
+
+'5. You worked extra hours last month and want a compensatory day off. How do you request it?'""
+sub_rules: """"
+can_do_statement: ""Asking for Permission or Time Off""
+sentence_structure: ""I would like to request [leave/permission] because [reason].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

@@ -1,0 +1,71 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Understanding Instructions,,,
+header,title,,Understanding Instructions,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Revise how to confirm and understand instructions at work,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 2,,,
+1,chat_lessons,,"message: Let's revise how to confirm and understand instructions at work.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""If I understand correctly, I need to [task] by [deadline].""
+
+Repeating back an instruction shows your manager that you are attentive and clear.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/850d2e42-9557-477d-a0aa-dd810f885af0-47.-Understanding-Instructions.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/850d2e42-9557-477d-a0aa-dd810f885af0-47.-Understanding-Instructions.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/850d2e42-9557-477d-a0aa-dd810f885af0-47.-Understanding-Instructions.jpg,"Select the correct way to repeat back an instruction
+
+1.If I understand correctly, I need to update the sales data by noon.
+2.I will update the data but I am not sure about the exact time.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/850d2e42-9557-477d-a0aa-dd810f885af0-47.-Understanding-Instructions.jpg,"Select the correct way to confirm a task with a deadline
+
+1.My manager said something about the meeting but I forgot the details.
+2.If I understand correctly, I need to arrange the meeting by tomorrow morning.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/850d2e42-9557-477d-a0aa-dd810f885af0-47.-Understanding-Instructions.jpg,"If&&I&&understand&&correctly, I&&need&&to submit the&&budget&&report by Friday&&afternoon.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/850d2e42-9557-477d-a0aa-dd810f885af0-47.-Understanding-Instructions.jpg,"If&&I&&understand&&correctly, I&&need&&to review the&&contract by Thursday&&morning.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/850d2e42-9557-477d-a0aa-dd810f885af0-47.-Understanding-Instructions.jpg,"If&&I&&understand&&correctly, I&&need&&to finalise the&&presentation by tomorrow&&noon.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/850d2e42-9557-477d-a0aa-dd810f885af0-47.-Understanding-Instructions.jpg,"If&&I&&understand&&correctly, I&&need&&to update the&&project&&plan by Monday&&evening.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/850d2e42-9557-477d-a0aa-dd810f885af0-47.-Understanding-Instructions.jpg,"If&&I&&understand&&correctly, I&&need&&to respond&&to the&&client by this&&evening.",,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/850d2e42-9557-477d-a0aa-dd810f885af0-47.-Understanding-Instructions.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. Your manager gives you a new task with a specific deadline. How do you confirm you understood?'
+
+'2. A senior colleague explains a process to you. How do you confirm the key steps?'
+
+'3. Your supervisor asks you to prepare a summary by the end of the week. How do you confirm the instruction?'
+
+'4. Your team leader assigns you a task with multiple steps. How do you confirm what you need to do?'
+
+'5. Your manager gives you a last-minute instruction. How do you confirm the task and deadline?'""
+sub_rules: """"
+can_do_statement: ""Understanding Instructions""
+sentence_structure: ""If I understand correctly, I need to [task] by [deadline].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,
