@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Planning and Decision-Making in Groups,,,
+header,title,,Test: Planning and Decision-Making in Groups,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of planning and decision-making in groups,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I think the best approach is to present three options to leadership because it helps them make an informed decision.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Planning and Decision-Making in Groups
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I think the best approach is to start with the easiest tasks first because it builds momentum for the team.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Planning and Decision-Making in Groups
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I think the best approach is to build a checklist of all dependencies because it prevents last-minute surprises.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Planning and Decision-Making in Groups
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I think the best approach is to hold a kickoff meeting with all stakeholders because it ensures everyone is aligned.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Planning and Decision-Making in Groups
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I think the best approach is to identify risks before we begin because it helps us prepare for unexpected challenges.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Planning and Decision-Making in Groups
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I think the best approach is to assign a different point of contact per team because it reduces confusion.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Planning and Decision-Making in Groups
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I think the best approach is to keep the decision-making process transparent because it builds trust within the team.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Planning and Decision-Making in Groups
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I think the best approach is to invite a subject matter expert because it saves time in the long run.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Planning and Decision-Making in Groups
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I think the best approach is to break the goal into daily checkpoints because it keeps everyone accountable.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Planning and Decision-Making in Groups
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: I think the best approach is to run a dry run before the final launch because it helps us catch issues early.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Planning and Decision-Making in Groups",TRUE,,

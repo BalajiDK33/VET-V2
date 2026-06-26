@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Reporting Task Status!,,,
+header,title,,Test: Reporting Task Status!,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of reporting task status!,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I have completed the vendor comparison and I am now moving on to the procurement process.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Reporting Task Status
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I have completed the employee survey and I am now moving on to the results report.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Reporting Task Status
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I have completed the content draft and I am now moving on to the editing stage.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Reporting Task Status
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I have completed the risk assessment and I am now moving on to the mitigation plan.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Reporting Task Status
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I have completed the onboarding checklist and I am now moving on to the orientation schedule.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Reporting Task Status
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I have completed the website audit and I am now moving on to the improvement report.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Reporting Task Status
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I have completed the meeting minutes and I am now moving on to the action items.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Reporting Task Status
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I have completed the quarterly report and I am now moving on to the board presentation.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Reporting Task Status
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I have completed the campaign brief and I am now moving on to the creative development.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Reporting Task Status
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: I have completed the compliance check and I am now moving on to the approval process.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Reporting Task Status",TRUE,,

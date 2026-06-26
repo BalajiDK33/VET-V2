@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Talking about Past Events!,,,
+header,title,,Test: Talking about Past Events!,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of talking about past events!,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Last Saturday, I took part in a photography workshop and it was a great experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Past Events
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Last quarter, I led a project presentation for the first time and it was a great experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Past Events
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Last month, I joined a public speaking club and it was a great experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Past Events
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Last week, I helped organise a charity drive at my workplace and it was a great experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Past Events
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Last winter, I learned how to cook a new cuisine and it was a great experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Past Events
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Last evening, I watched a documentary on wildlife and it was a great experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Past Events
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Last year, I completed a professional certification and it was a great experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Past Events
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Last Thursday, I attended a networking event in my field and it was a great experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Past Events
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Last month, I mentored a junior colleague for the first time and it was a great experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Past Events
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: Last weekend, I visited a historical museum with my family and it was a great experience.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Past Events",TRUE,,

@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Making Polite Requests,,,
+header,title,,Test: Making Polite Requests,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of making polite requests,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Would it be possible for you to introduce me to the client by this week?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Making Polite Requests
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Would it be possible for you to check the equipment inventory by tomorrow afternoon?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Making Polite Requests
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Would it be possible for you to brief me on the project timeline by Monday?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Making Polite Requests
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Would it be possible for you to sign the leave form by today?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Making Polite Requests
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Would it be possible for you to send the updated price list by end of this week?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Making Polite Requests
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Would it be possible for you to arrange the induction session by next Wednesday?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Making Polite Requests
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Would it be possible for you to help me with the system setup by noon?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Making Polite Requests
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Would it be possible for you to clarify the approval steps by this morning?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Making Polite Requests
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Would it be possible for you to share the company policy handbook by Thursday?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Making Polite Requests
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: Would it be possible for you to review the vendor contract by Friday afternoon?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Making Polite Requests",TRUE,,

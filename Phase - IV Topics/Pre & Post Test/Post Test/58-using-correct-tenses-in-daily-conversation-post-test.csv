@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Using Correct Tenses in Daily Conversation!,,,
+header,title,,Test: Using Correct Tenses in Daily Conversation!,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of using correct tenses in daily conversation!,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Yesterday I attended the board meeting and today I am working on the action points.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Using Correct Tenses in Daily Conversation
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Yesterday I sent the proposal and today I am waiting for the client's response.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Using Correct Tenses in Daily Conversation
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Yesterday I designed the presentation layout and today I am adding the final content.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Using Correct Tenses in Daily Conversation
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Yesterday I completed the employee survey and today I am analysing the results.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Using Correct Tenses in Daily Conversation
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Yesterday I repaired the broken equipment and today I am running a quality check.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Using Correct Tenses in Daily Conversation
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Yesterday I finished the onboarding checklist and today I am scheduling the induction.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Using Correct Tenses in Daily Conversation
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Yesterday I reviewed the project timeline and today I am reassigning the tasks.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Using Correct Tenses in Daily Conversation
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Yesterday I conducted the interview and today I am reviewing the candidate profiles.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Using Correct Tenses in Daily Conversation
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Yesterday I collected the data and today I am building the performance dashboard.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Using Correct Tenses in Daily Conversation
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: Yesterday I completed the product demonstration and today I am following up with the leads.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Using Correct Tenses in Daily Conversation",TRUE,,

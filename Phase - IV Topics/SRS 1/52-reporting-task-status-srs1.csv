@@ -1,0 +1,71 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Reporting Task Status,,,
+header,title,,Reporting Task Status,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Revise how to report task status at work,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to report your task status clearly at work.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""I have completed [task] and I am now moving on to [next step].""
+
+This structure gives your manager a clear picture of what is done and what comes next.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,"Select the correct way to give a project status update
+
+1.I have completed the budget review and I am now moving on to the final submission.
+2.The budget review is kind of done and I will do the submission later.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,"Select the correct way to update a colleague on your progress
+
+1.Things are going okay and I will let you know if anything changes.
+2.I have completed the inventory check and I am now moving on to the reorder list.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,I&&have&&completed the&&product&&testing and&&I&&am now&&moving&&on&&to the documentation.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,I&&have&&completed the&&budget&&review and&&I&&am now&&moving&&on&&to the&&final submission.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,I&&have&&completed the&&inventory&&check and&&I&&am now&&moving&&on&&to the&&reorder list.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,I&&have&&completed the&&branch&&audit and&&I&&am now&&moving&&on&&to the&&corrective&&action report.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,I&&have&&completed the&&supplier&&review and&&I&&am now&&moving&&on&&to the&&contract&&renewal process.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. Your supervisor asks for your daily update. How do you report your task status?'
+
+'2. Your team leader wants to know what stage your project is in. How do you give an update?'
+
+'3. A stakeholder asks about your current deliverable. How do you report your progress?'
+
+'4. Your manager asks what you are working on today. How do you respond?'
+
+'5. During a stand-up meeting, it is your turn to share your status. How do you report it?'""
+sub_rules: """"
+can_do_statement: ""Reporting Task Status""
+sentence_structure: ""I have completed [task] and I am now moving on to [next step].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

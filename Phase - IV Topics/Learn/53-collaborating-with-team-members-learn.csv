@@ -1,0 +1,93 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Collaborating with Team Members,,,
+header,title,,Collaborating with Team Members,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Learn how to collaborate effectively with team members,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to suggest ways to collaborate with your team effectively.
+
+Good collaboration improves results and creates a positive team culture.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg
+button_text: Cool!
+
+message:
+When you want to suggest a teamwork approach, use this structure:
+
+""If we [suggestion], we can achieve [outcome] more effectively.""
+
+For example: ""If we divide the tasks equally, we can achieve the project deadline more effectively.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg
+button_text: Got it!
+
+message:
+Here's another example.
+
+If your team needs better coordination, you can say:
+
+""If we schedule a daily check-in, we can achieve better team coordination more effectively.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg
+button_text: Next!
+
+message:
+This structure helps you propose solutions in a positive and forward-looking way.
+
+It focuses on what the team can gain by working together.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg
+button_text: Makes sense!
+
+message:
+Let's practice collaborating with team members!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg,"Select the correct way to suggest a teamwork approach
+
+1.If we divide the tasks equally, we can achieve the project deadline more effectively.
+2.Someone else should do most of the work so the rest of us can focus on other things.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg,"Select the correct way to propose a collaboration strategy
+
+1.If we schedule a daily check-in, we can achieve better team coordination more effectively.
+2.We should meet every day but I am not sure if everyone will agree to that.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg,"If&&we&&divide the&&tasks&&equally, we&&can&&achieve the&&project&&deadline more effectively.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg,"If&&we&&schedule a&&daily&&check-in, we&&can&&achieve better&&team&&coordination more effectively.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg,"If&&we&&share updates&&regularly, we&&can&&achieve smoother&&progress more effectively.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg,"If&&we&&assign clear&&roles&&to&&each&&member, we&&can&&achieve the&&project&&goals more effectively.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg,"If&&we&&use a&&shared&&document, we&&can&&achieve better&&collaboration more effectively.",,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/450203b8-d7a6-48c8-bf90-7545f89770dd-53.-Collaborating-with-Team-Members.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. Your team is struggling to meet a deadline. How do you suggest a way to work together?'
+
+'2. Your project has too many tasks for one person. How do you propose dividing the work?'
+
+'3. Your team members are not communicating well. How do you suggest a solution?'
+
+'4. Your group needs to improve its productivity. How do you propose a collaborative approach?'
+
+'5. Your team is working on a presentation together. How do you suggest a way to collaborate?'""
+sub_rules: """"
+can_do_statement: ""Collaborating with Team Members""
+sentence_structure: ""If we [suggestion], we can achieve [outcome] more effectively.""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

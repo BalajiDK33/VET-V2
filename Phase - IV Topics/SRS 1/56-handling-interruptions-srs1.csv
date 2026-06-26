@@ -1,0 +1,71 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Handling Interruptions,,,
+header,title,,Handling Interruptions,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Revise how to handle interruptions politely,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to handle interruptions calmly and professionally.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""I understand [point], and if I may just add [response].""
+
+This structure keeps conversations respectful by acknowledging the other person before adding your point.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/e38a92a9-01d0-408b-8043-b6f538f2c9e3-56.-Handling-Interruptions.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/e38a92a9-01d0-408b-8043-b6f538f2c9e3-56.-Handling-Interruptions.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/e38a92a9-01d0-408b-8043-b6f538f2c9e3-56.-Handling-Interruptions.jpg,"Select the correct way to continue speaking after an interruption
+
+1.I understand your feedback, and if I may just add that the team has made the corrections.
+2.You have already said your feedback but I was not done explaining the situation.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/e38a92a9-01d0-408b-8043-b6f538f2c9e3-56.-Handling-Interruptions.jpg,"Select the correct way to add a point after being interrupted
+
+1.I understand the priority has changed, and if I may just add that I will adjust my plan accordingly.
+2.Okay fine the priority has changed but I want to say something first.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/e38a92a9-01d0-408b-8043-b6f538f2c9e3-56.-Handling-Interruptions.jpg,"I&&understand your&&feedback, and&&if&&I&&may&&just&&add that&&the&&team&&has made&&the corrections.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/e38a92a9-01d0-408b-8043-b6f538f2c9e3-56.-Handling-Interruptions.jpg,"I&&understand the&&priority&&has&&changed, and&&if&&I&&may&&just&&add that&&I&&will&&adjust my&&plan accordingly.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/e38a92a9-01d0-408b-8043-b6f538f2c9e3-56.-Handling-Interruptions.jpg,"I&&understand the&&client&&is&&unhappy, and&&if&&I&&may&&just&&add that&&we&&have a&&recovery&&plan in&&place.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/e38a92a9-01d0-408b-8043-b6f538f2c9e3-56.-Handling-Interruptions.jpg,"I&&understand the&&process needs&&improvement, and&&if&&I&&may&&just&&add that&&I&&have some&&suggestions.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/e38a92a9-01d0-408b-8043-b6f538f2c9e3-56.-Handling-Interruptions.jpg,"I&&understand there&&is&&a&&delay, and&&if&&I&&may&&just&&add that&&we&&are&&working to&&resolve&&it immediately.",,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/e38a92a9-01d0-408b-8043-b6f538f2c9e3-56.-Handling-Interruptions.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. Someone cuts you off while you are sharing your project update. How do you respond politely?'
+
+'2. A team member speaks over you in a group discussion. How do you handle it?'
+
+'3. Your manager interrupts you during a report presentation. How do you politely continue?'
+
+'4. A colleague keeps interrupting your ideas in a brainstorming session. How do you respond?'
+
+'5. You are explaining a solution and someone cuts in. How do you handle the interruption?'""
+sub_rules: """"
+can_do_statement: ""Handling Interruptions""
+sentence_structure: ""I understand [point], and if I may just add [response].""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,

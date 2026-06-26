@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Talking about Chores and Everyday Activities,,,
+header,title,,Test: Talking about Chores and Everyday Activities,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of talking about chores and everyday activities,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Every morning, I make it a habit to meditate for ten minutes before breakfast.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Chores and Everyday Activities
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Every weekend, I make it a habit to cook a new recipe and try different cuisines.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Chores and Everyday Activities
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Every evening, I make it a habit to listen to a podcast during my commute home.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Chores and Everyday Activities
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Every night, I make it a habit to write three things I am grateful for that day.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Chores and Everyday Activities
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Every Sunday, I make it a habit to visit the local market and pick up fresh produce.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Chores and Everyday Activities
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Every morning, I make it a habit to drink a cup of green tea while reviewing my calendar.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Chores and Everyday Activities
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Every week, I make it a habit to spend at least one hour on a hobby or personal project.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Chores and Everyday Activities
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Every evening, I make it a habit to step away from screens for at least thirty minutes.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Chores and Everyday Activities
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: Every month, I make it a habit to track my daily habits and reflect on my progress.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Chores and Everyday Activities
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: Every Friday, I make it a habit to sort and organise my emails before logging off.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Talking about Chores and Everyday Activities",TRUE,,

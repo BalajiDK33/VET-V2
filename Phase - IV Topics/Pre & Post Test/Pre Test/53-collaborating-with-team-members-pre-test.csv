@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Collaborating with Team Members,,,
+header,title,,Test: Collaborating with Team Members,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of collaborating with team members,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: If we build on each other's ideas, we can achieve more creative solutions more effectively.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Collaborating with Team Members
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: If we stay flexible during challenges, we can achieve our targets more effectively.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Collaborating with Team Members
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: If we acknowledge each other's contributions, we can achieve a more motivated team more effectively.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Collaborating with Team Members
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: If we establish clear communication channels, we can achieve fewer misunderstandings more effectively.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Collaborating with Team Members
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: If we hold regular team debriefs, we can achieve continuous learning more effectively.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Collaborating with Team Members
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: If we rotate responsibilities across the team, we can achieve a stronger skill set more effectively.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Collaborating with Team Members
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: If we plan our tasks in advance, we can achieve smoother project execution more effectively.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Collaborating with Team Members
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: If we align on the key objectives at the start, we can achieve better focus more effectively.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Collaborating with Team Members
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: If we share resources openly, we can achieve greater efficiency more effectively.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Collaborating with Team Members
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: If we encourage honest feedback, we can achieve better team performance more effectively.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Collaborating with Team Members",TRUE,,

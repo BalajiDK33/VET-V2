@@ -1,0 +1,93 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Talking about Past Events,,,
+header,title,,Talking about Past Events,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Learn how to talk about past events in conversation,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to talk about past events in conversation.
+
+Sharing past experiences helps you connect with others and keep conversations interesting.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg
+button_text: Cool!
+
+message:
+When you want to talk about something you did in the past, use this structure:
+
+""Last [time period], I [action] and it was a great experience.""
+
+For example: ""Last weekend, I visited a science exhibition and it was a great experience.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg
+button_text: Got it!
+
+message:
+Here's another example.
+
+If you attended an event last month, you can say:
+
+""Last month, I attended a team building event and it was a great experience.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg
+button_text: Next!
+
+message:
+This structure uses the simple past tense to describe events that already happened.
+
+It helps you share memories in a natural and engaging way.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg
+button_text: Makes sense!
+
+message:
+Let's practice talking about past events!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Select the correct way to talk about a past event
+
+1.Last weekend, I visited a science exhibition and it was a great experience.
+2.I went somewhere last weekend and it was alright I guess.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Select the correct way to describe a past activity
+
+1.Last month, I attended a team building event and it was a great experience.
+2.There was a team building thing last month and some people went for it.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Last&&weekend, I&&visited a&&science&&exhibition and&&it&&was a&&great experience.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Last&&month, I&&attended a&&team&&building&&event and&&it&&was a&&great experience.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Last&&week, I&&participated&&in a&&cooking&&class and&&it&&was a&&great experience.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Last&&holiday, I&&explored a&&new&&city&&with&&my&&friends and&&it&&was a&&great experience.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Last&&Sunday, I&&volunteered at&&a&&community&&event and&&it&&was a&&great experience.",,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. Your friend asks what you did last weekend. How do you describe a past event?'
+
+'2. A colleague asks how your holiday was. How do you talk about a past experience?'
+
+'3. Your family member asks what happened at your office event last week. How do you describe it?'
+
+'4. A friend asks if you did anything interesting last month. How do you talk about a past activity?'
+
+'5. Your colleague asks about your experience at a recent training. How do you describe it?'""
+sub_rules: """"
+can_do_statement: ""Talking about Past Events""
+sentence_structure: ""Last [time period], I [action] and it was a great experience.""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

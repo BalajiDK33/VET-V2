@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Asking for Permission or Time Off!,,,
+header,title,,Test: Asking for Permission or Time Off!,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of asking for permission or time off!,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would like to request a week off because I am getting married next month.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Asking for Permission or Time Off
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would like to request permission to work remotely because my home office is more convenient this week.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Asking for Permission or Time Off
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would like to request study leave because I have an important examination coming up.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Asking for Permission or Time Off
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would like to request a half day because I need to attend a parent-teacher meeting.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Asking for Permission or Time Off
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would like to request emergency leave because of a sudden family situation.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Asking for Permission or Time Off
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would like to request permission to take a long lunch break because I have a bank appointment.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Asking for Permission or Time Off
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would like to request compensatory off because I worked on a public holiday last week.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Asking for Permission or Time Off
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would like to request permission to leave the office premises because I have a client visit.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Asking for Permission or Time Off
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would like to request annual leave because I have not taken any break in six months.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Asking for Permission or Time Off
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: I would like to request maternity leave because my due date is approaching next month.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Asking for Permission or Time Off",TRUE,,

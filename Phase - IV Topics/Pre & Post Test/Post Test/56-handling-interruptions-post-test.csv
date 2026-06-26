@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Handling Interruptions!,,,
+header,title,,Test: Handling Interruptions!,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of handling interruptions!,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I understand the scope has increased, and if I may just add that we may need more time.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Handling Interruptions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I understand you are concerned about quality, and if I may just add that we have added a review step.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Handling Interruptions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I understand the meeting is running long, and if I may just add one final point before we close.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Handling Interruptions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I understand the instructions have changed, and if I may just add that I will update my task list.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Handling Interruptions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I understand there is a budget constraint, and if I may just add that I can explore cost-saving options.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Handling Interruptions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I understand the design needs revision, and if I may just add that I can have it done by tomorrow.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Handling Interruptions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I understand the decision has been made, and if I may just add a suggestion for future reference.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Handling Interruptions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I understand the report is incomplete, and if I may just add that I need one more hour to finish.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Handling Interruptions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I understand your expectation, and if I may just add that I have been working towards the same goal.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Handling Interruptions
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: I understand the team has concerns, and if I may just add that I am open to discussing solutions.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Handling Interruptions",TRUE,,

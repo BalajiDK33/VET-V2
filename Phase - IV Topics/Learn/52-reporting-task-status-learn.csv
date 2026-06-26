@@ -1,0 +1,93 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Reporting Task Status,,,
+header,title,,Reporting Task Status,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Learn how to report task status at work,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to report your task status at work.
+
+Clear updates help your manager track progress and plan the next steps.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg
+button_text: Cool!
+
+message:
+When you want to report your progress at work, use this structure:
+
+""I have completed [task] and I am now moving on to [next step].""
+
+For example: ""I have completed the data entry and I am now moving on to the final review.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg
+button_text: Got it!
+
+message:
+Here's another example.
+
+If you have finished a report and are starting the slides, you can say:
+
+""I have completed the client report and I am now moving on to the presentation slides.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg
+button_text: Next!
+
+message:
+This structure gives your manager a clear picture of where you are.
+
+It shows what is done and what comes next in a simple and professional way.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg
+button_text: Makes sense!
+
+message:
+Let's practice reporting task status!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,"Select the correct way to report your task progress to a manager
+
+1.I have completed the data entry and I am now moving on to the final review.
+2.I was working on data entry and I think I might finish it by today hopefully.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,"Select the correct way to update your team leader
+
+1.I am not done yet but I will tell you when I finish the report.
+2.I have completed the client report and I am now moving on to the presentation slides.
+
+Correct answer: 2",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,I&&have&&completed the&&data&&entry and&&I&&am now&&moving&&on&&to the&&final review.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,I&&have&&completed the&&client&&report and&&I&&am now&&moving&&on&&to the&&presentation slides.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,I&&have&&completed the&&market&&research and&&I&&am now&&moving&&on&&to the analysis.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,I&&have&&completed the&&training&&module and&&I&&am now&&moving&&on&&to the assessment.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,I&&have&&completed the&&sales&&summary and&&I&&am now&&moving&&on&&to the&&forecast report.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/61846263-b498-41bc-90f0-5b80b87304f0-52.-Reporting-Task-Status.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. Your manager asks for an update on your work. How do you report your task status?'
+
+'2. Your team leader wants to know how far you are with the project. How do you give an update?'
+
+'3. Your supervisor asks if you have finished your assignment. How do you respond?'
+
+'4. Your colleague asks what you are currently working on. How do you update them?'
+
+'5. Your manager checks in during a meeting. How do you report your progress?'""
+sub_rules: """"
+can_do_statement: ""Reporting Task Status""
+sentence_structure: ""I have completed [task] and I am now moving on to [next step].""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

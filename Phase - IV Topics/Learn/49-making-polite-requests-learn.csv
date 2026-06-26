@@ -1,0 +1,93 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Making Polite Requests,,,
+header,title,,Making Polite Requests,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Learn how to make polite requests at work,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to make polite requests at work.
+
+A polite request gets a better response and shows professionalism.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg
+button_text: Cool!
+
+message:
+When you need someone to do something at work, use this structure:
+
+""Would it be possible for you to [action] by [time]?""
+
+For example: ""Would it be possible for you to share the file by end of day?""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg
+button_text: Got it!
+
+message:
+Here's another example.
+
+If you need your manager to review a report, you can say:
+
+""Would it be possible for you to review my report by tomorrow morning?""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg
+button_text: Next!
+
+message:
+This structure makes your request sound polite and reasonable.
+
+It gives the other person a clear deadline and enough time to respond.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg
+button_text: Makes sense!
+
+message:
+Let's practice making polite requests at work!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,"Select the correct way to ask a colleague to share a file
+
+1.Would it be possible for you to share the file by end of day?
+2.Can you please send me the file now because I need it urgently.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,"Select the correct way to ask your manager to review a report
+
+1.Would it be possible for you to review my report by tomorrow morning?
+2.Please review my report because I have been waiting for too long.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,Would&&it&&be&&possible for&&you&&to share&&the&&file by&&end of day?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,Would&&it&&be&&possible for&&you&&to review&&my&&report by tomorrow morning?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,Would&&it&&be&&possible for&&you&&to complete&&your task by Friday?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,Would&&it&&be&&possible for&&you&&to approve&&my plan by noon?,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,Would&&it&&be&&possible for&&you&&to send&&the&&feedback by Thursday evening?,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/da178047-ea27-46e4-b9ef-e8de64088db0-49.-Making-Polite-Requests.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. You need your colleague to share a file. How do you make a polite request?'
+
+'2. You need your manager to review your report. How do you ask politely?'
+
+'3. You need a team member to complete their task. How do you make a polite request?'
+
+'4. You need your supervisor to approve your plan. How do you ask politely?'
+
+'5. You need a colleague to reschedule a meeting. How do you make a polite request?'""
+sub_rules: """"
+can_do_statement: ""Making Polite Requests""
+sentence_structure: ""Would it be possible for you to [action] by [time]?""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

@@ -1,0 +1,93 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Recommending Items and Comparing Products,,,
+header,title,,Recommending Items and Comparing Products,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Learn how to recommend items and compare products,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Learn,,,
+1,chat_lessons,,"message:
+Hey! Today we're learning how to recommend items and compare products in English.
+
+A clear recommendation with a reason helps others make better decisions.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg
+button_text: Cool!
+
+message:
+When you want to recommend something, use this structure:
+
+""I would recommend [item] because [reason].""
+
+For example: ""I would recommend the noise-cancelling headphones because they block all background distractions.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg
+button_text: Got it!
+
+message:
+Here's another example.
+
+If a friend asks about a good laptop, you can say:
+
+""I would recommend this laptop because it has a long battery life and is easy to carry.""
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg
+button_text: Next!
+
+message:
+This structure gives a clear recommendation and explains the reason behind it.
+
+It helps the other person understand why your suggestion is a good choice.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg
+button_text: Makes sense!
+
+message:
+Let's practice recommending items and comparing products!
+
+image_url:
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg,"Select the correct way to recommend a product
+
+1.I would recommend the noise-cancelling headphones because they block all background distractions.
+2.The noise-cancelling headphones are okay but there are better ones out there.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg,"Select the correct way to recommend a restaurant
+
+1.I would recommend this restaurant because the food is fresh and the service is excellent.
+2.This restaurant is decent but I have had better food elsewhere to be honest.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg,I&&would&&recommend the&&noise-cancelling headphones because&&they block&&all background&&distractions.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg,I&&would&&recommend this&&laptop because&&it&&has a&&long&&battery&&life and&&is&&easy to&&carry.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg,I&&would&&recommend this&&restaurant because the&&food&&is&&fresh and&&the&&service is&&excellent.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg,I&&would&&recommend this&&productivity&&app because&&it&&helps you&&organise&&tasks and&&set&&reminders easily.,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg,I&&would&&recommend this&&fitness&&tracker because&&it monitors your&&health data&&accurately.,,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/b89bb608-b4a0-47ff-8c2f-220b01faaf32-59.-Recommending-Items-and-Comparing-Products.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. Your friend asks which laptop to buy for work. How do you give a recommendation?'
+
+'2. A colleague asks which phone is better for daily use. How do you recommend one?'
+
+'3. Your family member asks which streaming app to subscribe to. How do you suggest one?'
+
+'4. A friend asks which restaurant to visit in your city. How do you make a recommendation?'
+
+'5. Your colleague asks which productivity tool to use for managing tasks. How do you recommend one?'""
+sub_rules: """"
+can_do_statement: ""Recommending Items and Comparing Products""
+sentence_structure: ""I would recommend [item] because [reason].""
+SYSTEM_TRANSLATION_RULES: """"""",,,
+3,section_type,,conversation,,,

@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Recommending Items and Comparing Products,,,
+header,title,,Test: Recommending Items and Comparing Products,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of recommending items and comparing products,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would recommend this standing desk because it helps reduce back pain and improves posture.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Recommending Items and Comparing Products
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would recommend this meditation app because it guides you through short daily sessions easily.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Recommending Items and Comparing Products
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would recommend this air purifier because it keeps the room clean and improves air quality.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Recommending Items and Comparing Products
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would recommend this ergonomic chair because it provides excellent lumbar support during long hours.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Recommending Items and Comparing Products
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would recommend this productivity journal because it helps you plan your day with clear structure.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Recommending Items and Comparing Products
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would recommend this language learning app because it makes daily practice fun and consistent.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Recommending Items and Comparing Products
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would recommend this portable Bluetooth speaker because the sound quality is impressive for its size.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Recommending Items and Comparing Products
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would recommend this nutrition tracker app because it helps you monitor your daily calorie intake.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Recommending Items and Comparing Products
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: I would recommend this document scanner because it is fast, portable, and produces clear digital copies.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Recommending Items and Comparing Products
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: I would recommend this noise machine because it helps you block distractions and maintain focus.
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Recommending Items and Comparing Products",TRUE,,

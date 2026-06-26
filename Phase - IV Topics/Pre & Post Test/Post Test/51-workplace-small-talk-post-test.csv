@@ -1,0 +1,74 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Test: Workplace Small Talk!,,,
+header,title,,Test: Workplace Small Talk!,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,roleplay,,,
+config,display_activity_type,,Translate & Learn,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Check your understanding of workplace small talk!,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,FALSE,,,
+config,reattempt_jumble,,FALSE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Translate,,,
+1,staged_roleplay,,"first_message: Hey there!\n\nIn this activity, you have to translate 10 sentences into English.\n\nPlease note:\n📝 This is a Test activity\n⚠️ I will not correct your mistakes\n\nLet's start?
+below are array of question objects to be put inside key staged_questions.default.questions
+
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: It has been very rewarding lately — how are you managing to keep up the good work?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Workplace Small Talk
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: It has been rather unpredictable lately — how are you managing the constant changes?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Workplace Small Talk
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: It has been fairly quiet lately — how are you managing your project pipeline?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Workplace Small Talk
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: It has been quite motivating lately — how are you managing to stay so focused?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Workplace Small Talk
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: It has been a little slow lately — how are you managing to stay productive?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Workplace Small Talk
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: It has been surprisingly smooth lately — how are you managing your tasks so efficiently?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Workplace Small Talk
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: It has been quite eventful lately — how are you managing all the new launches?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Workplace Small Talk
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: It has been quite fast-paced lately — how are you managing to complete everything on time?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Workplace Small Talk
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+question: It has been fairly collaborative lately — how are you managing to work across so many teams?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Workplace Small Talk
+---
+prompt_id: 7deb4075-c026-43fe-906c-5439d404bd9c
+Here is your final question
+question: It has been very competitive lately — how are you managing the pressure from the targets?
+SYSTEM_TRANSLATION_RULES:""""
+grammar_concept: Workplace Small Talk",TRUE,,

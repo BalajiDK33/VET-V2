@@ -1,0 +1,71 @@
+﻿section,type,hint_image_url,data,should_instruction_be_translated,jumble_extra_words_comma,question_voices
+header,icon_image_text,,Talking about Past Events,,,
+header,title,,Talking about Past Events,,,
+config,voices,,Priya-Priya,,,
+config,activity_type,,lesson,,,
+config,display_activity_type,,Grammar Builder,,,
+config,personas,,spoken-english-kids-level-g-0,,,
+config,description,,Revise how to talk about past events in conversation,TRUE,,
+config,populate,,TRUE,,,
+config,populate_languages,,TRUE,,,
+config,always_show_hint,,TRUE,,,
+config,read_aloud_after_jumble,,TRUE,,,
+config,reattempt_jumble,,TRUE,,,
+config,english_language_toggle,,FALSE,,,
+config,skip_transcription,,TRUE,,,
+config,rich_chat,,TRUE,,,
+config,key_skills,,"speaking,grammar",,,
+config,chat_suggestions,,Yes! Let's Start.,,,
+config,disable_skip,,FALSE,,,
+config,tts_config,,"{""silent_mode"":false}",,,
+config,badge_title,,Fluency Booster 1,,,
+1,chat_lessons,,"message: Let's revise how to talk about past events naturally in English.
+image_url:
+button_text: Continue!
+
+message: Remember the structure you learned:
+
+""Last [time period], I [action] and it was a great experience.""
+
+This structure uses the simple past tense to help you share memories in an engaging way.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg
+button_text: Next!
+
+message: Great! Now let's practice using this structure again.
+image_url: https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg
+button_text: Start Practice!",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Select the correct way to share a past experience with a friend
+
+1.Last Friday, I attended a live music concert and it was a great experience.
+2.I saw a concert not long ago and it was okay but nothing special.
+
+Correct answer: 1",,,
+1,mcqs,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Select the correct way to describe something you did recently
+
+1.Last summer, I completed an online course and it was a great experience.
+2.I did an online course sometime ago and it was not too bad.
+
+Correct answer: 1",,,
+1,section_type,,learn,,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Last&&Friday, I&&attended a&&live&&music&&concert and&&it&&was a&&great experience.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Last&&summer, I&&completed an&&online&&course and&&it&&was a&&great experience.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Last&&evening, I&&joined a&&group&&fitness&&session and&&it&&was a&&great experience.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Last&&Tuesday, I&&visited a&&book&&fair&&in&&the&&city and&&it&&was a&&great experience.",,,
+2,jumbles_listening_comprehension,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"Last&&year, I&&went&&on a&&solo&&trip&&to&&the&&mountains and&&it&&was a&&great experience.",,,
+2,section_type,,practice,,,
+3,roleplay,https://r2-activity-data.gosupernova.live/system-uploads/scenario-data/09cd2eab-d8ca-488f-97ab-51485f073820-54.-Talking-about-Past-Events.jpg,"first_message: That was incredible! Now we're going to practice by answering few questions in English. Can we start?
+prompt_id: 4d3f5213-fcc4-40f3-879d-051908377a31
+questions: ""'1. A colleague asks how your festival holiday was. How do you describe it?'
+
+'2. Your friend asks what you did last weekend. How do you share the experience?'
+
+'3. A manager asks about a recent training session you attended. How do you talk about it?'
+
+'4. Your family asks what you did at a recent office event. How do you describe it?'
+
+'5. A friend asks if anything interesting happened last month. How do you talk about it?'""
+sub_rules: """"
+can_do_statement: ""Talking about Past Events""
+sentence_structure: ""Last [time period], I [action] and it was a great experience.""
+SYSTEM_TRANSLATION_RULES: """"",,,
+3,section_type,,conversation,,,
